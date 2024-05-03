@@ -5,6 +5,7 @@ Title: Understanding Collaboration Diversity in Bug-Fixing Tasks: A 10 Years Cas
 <iframe width="100%" height="614" frameborder="0"
   src="https://observablehq.com/embed/65e8bb40b08c93f9@544?cells=radar"></iframe>
 
+Access the [git repository](https://github.com/emanueles/hadoop-collab).
 
 The scripts are in jupyter notebooks and we recommend using VSCode to run the analyses. To replicate the analyses in this package, it is recommended to use a python virtual environment:
 
