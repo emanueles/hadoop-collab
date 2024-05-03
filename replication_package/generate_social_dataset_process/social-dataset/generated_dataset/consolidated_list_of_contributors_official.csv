@@ -1,0 +1,1780 @@
+id;name_git;username_jira;name_jira;organization;roles;timezone;pmc;committer;git;official
+id1;;;Nan Ding;;;;0;0;0;0
+id2;;calebsevern;Caleb Severn;;;;0;0;0;0
+id3;;alex.behm;Alexander Behm;;;;0;0;0;0
+id4;;mohideen;Mohamed Abdul Rasheed;;;;0;0;0;0
+id5;;gu chi;gu-chi;;;;0;0;0;0
+id6;;nikola.vujic;Nikola Vujic;;;;0;0;0;0
+id7;;sookim;Heesoo Kim;;;;0;0;0;0
+id8;;matei;Matei Alexandru Zaharia;UC Berkeley;;-8;0;1;0;1
+id9;;grepory;Greg Poirier;;;;0;0;0;0
+id10;;sidazad;Siddhartha Azad;;;;0;0;0;0
+id11;;vik.karma;Vikas Vishwakarma;;;;0;0;0;0
+id12;;thkoch;Thomas Koch;;;;0;0;0;0
+id13;;esammer;Eric Sammer;;;;0;0;0;0
+id14;;mpercy;Mike Percy;;;;0;0;0;0
+id15;;nishantbangarwa;Nishant Bangarwa;;;;0;0;0;0
+id16;;daemon;YunFan Zhou;;;;0;0;0;0
+id17;;jwfbean;Jeff Bean;;;;0;0;0;0
+id18;;GeLiXin;LiXin Ge;;;;0;0;0;0
+id19;;shubham.dewan;Shubham Dewan;;;;0;0;0;0
+id20;;Riza;Moh.riza;;;;0;0;0;0
+id21;;vklimontovich;Vladimir Klimontovich;;;;0;0;0;0
+id22;;yufeldman;Yuliya Feldman;;;;0;0;0;0
+id23;;fbelghait;fodil;;;;0;0;0;0
+id24;Aravindan Vijayan;vijaykalluru;vijay;;;;0;0;0;0
+id25;;bradhill99;Brad Liu;;;;0;0;0;0
+id26;;zsxwing;Shixiong Zhu;;;;0;0;0;0
+id27;Nigel Daley;nidaley | nige.daley@gmail.com;Nigel Daley;;;;0;0;0;0
+id28;;ashwinshankar77;Ashwin Shankar;;;;0;0;0;0
+id29;;Guocui;Guocui Mi;;;;0;0;0;0
+id30;;myfly537;Pei Ma;;;;0;0;0;0
+id31;;epaulson;Erik Paulson;;;;0;0;0;0
+id32;;jagane;Jagane Sundar;;;;0;0;0;0
+id33;Xiaobing Zhou;xiaobingo;Xiaobing Zhou;;;;0;0;1;0
+id34;;lqjacklee;lqjacklee;;;;0;0;0;0
+id35;Aaron T. Myers, Aaron Myers;atm;Aaron Myers;Cloudera;;-8;1;1;1;1
+id36;Weiwei Yang;cheersyang;Weiwei Yang;;;;0;0;0;0
+id37;;karthiv;V.Karthikeyan;;;;0;0;0;0
+id38;;andyk;Andy Konwinski;;;;0;0;0;0
+id39;;lichangleo;Chang Li;;;;0;0;0;0
+id40;;wattsinabox;William Watson;;;;0;0;0;0
+id41;Bikas Saha;bikassaha;Bikas Saha;;;;0;0;0;0
+id42;;ndimiduk;Nick Dimiduk;;;;0;0;0;0
+id43;Sean Busbey;busbey;Sean Busbey;Cloudera;;-6;0;1;0;1
+id44;;lucat;Luca Telloli;;;;0;0;0;0
+id45;;chenfsd;Nemo Chen;;;;0;0;0;0
+id46;;natty;Jonathan Natkins;;;;0;0;0;0
+id47;;ram_krish;ramkrishna.s.vasudevan;;;;0;0;0;0
+id48;;tamtam180;tamtam180;;;;0;0;0;0
+id49;;stayhf;Chu Tong;;;;0;0;0;0
+id50;;pavlo;Andy Pavlo;;;;0;0;0;0
+id51;;liuzhe;Liu Zhe;;;;0;0;0;0
+id52;;chaku88;chackaravarthy;;;;0;0;0;0
+id53;;jluniya;Jayush Luniya;;;;0;0;0;0
+id54;Alejandro Abdelnur;tucu00;Alejandro Abdelnur;;;;0;0;0;0
+id55;;shawnam;Shawna Martell;;;;0;0;0;0
+id56;;eciramella;EJ Ciramella;;;;0;0;0;0
+id57;;namit081 | nmaheshwari;Namit Maheshwari;;;;0;0;0;0
+id58;;bhabermaas;Bill Habermaas;;;;0;0;0;0
+id59;;jeromatron;Jeremy Hanna;;;;0;0;0;0
+id60;;dongwook;Dongwook Kwon;;;;0;0;0;0
+id61;;xifang;Douma Fang;;;;0;0;0;0
+id62;;wyukawa;Wataru Yukawa;;;;0;0;0;0
+id63;;axenol;Alex Ivanov;;;;0;0;0;0
+id64;;davidyan;David Yan;;;;0;0;0;0
+id65;;zhouyejoe;Ye Zhou;;;;0;0;0;0
+id66;;thomas.kathmann;Thomas Kathmann;;;;0;0;0;0
+id67;;chandec;Corinne Chandel;;;;0;0;0;0
+id68;;npumenglei;Tony Meng;;;;0;0;0;0
+id69;;lozzd;Laurie Denness;;;;0;0;0;0
+id70;;AlecTaylor;Alec Taylor;;;;0;0;0;0
+id71;;anty;anty.rao;;;;0;0;0;0
+id72;;jthiltges;John Thiltges;;;;0;0;0;0
+id73;;niranjanmaisnam;Niranjan Singh;;;;0;0;0;0
+id74;;hbjoylee;JamesLi;;;;0;0;0;0
+id75;;ryannedolan;Ryanne Dolan;;;;0;0;0;0
+id76;;yians;Han Xiao;;;;0;0;0;0
+id77;Xiao Chen;xiaochen;Xiao Chen;;;;0;0;0;0
+id78;;wugeorge;George Wu;;;;0;0;0;0
+id79;;seneque;Julien Vaudour;;;;0;0;0;0
+id80;Wilfred Spiegelenburg;wilfreds;Wilfred Spiegelenburg;Cloudera;;-8;0;1;0;1
+id81;;richlackey@roamingcloud.com;Richard Lackey;;;;0;0;0;0
+id82;;pkling;Patrick Kling;;;;0;0;0;0
+id83;;cim_michajlomatijkiw;Michajlo Matijkiw;;;;0;0;0;0
+id84;;PandaMonkey;PandaMonkey;;;;0;0;0;0
+id85;Scott Chun-Yang Chen;schen;Scott Chen;Facebook;;-8;0;1;0;1
+id86;;sravankorumilli;sravankorumilli;;;;0;0;0;0
+id87;;yunsh;Sanghyun Yun;;;;0;0;0;0
+id88;Chris Nauroth, cnauroth;cnauroth;Chris Nauroth;Hortonworks;;-8;1;1;1;1
+id89;;itily;Urko Benito;;;;0;0;0;0
+id90;, ;rajuvishnu;Raju;;;;0;0;0;0
+id91;;ptr;Patrick Taylor Ramsey;;;;0;0;0;0
+id92;;fossil;Victor Pakhomov;;;;0;0;0;0
+id93;;Ryan P;Ryan P;;;;0;0;0;0
+id94;;jmhsieh;Jonathan Hsieh;;;;0;0;0;0
+id95;;chengxiang li;Chengxiang Li;;;;0;0;0;0
+id96;;daemeonr@gmail.com;daemeon reiydelle;;;;0;0;0;0
+id97;;asdaraujo;Andre Araujo;;;;0;0;0;0
+id98;;jonzoo;Jon Zuanich;;;;0;0;0;0
+id99;;jimk;Jim Kellerman;;;;0;0;0;0
+id100;;xieguiming;xieguiming;;;;0;0;0;0
+id101;;kzhao;Kaidi Zhao;;;;0;0;0;0
+id102;;vijaysbhat;Vijay Bhat;;;;0;0;0;0
+id103;;btiernay;Bob Tiernay;;;;0;0;0;0
+id104;;dengzh;Zhihua Deng;;;;0;0;0;0
+id105;;guilt;V. Karthik Kumar;;;;0;0;0;0
+id106;;tarmstrong;Tim Armstrong;;;;0;0;0;0
+id107;;arren;Shevek;;;;0;0;0;0
+id108;;xiaodike;Xiaodi Ke;;;;0;0;0;0
+id109;;Ayappan;Ayappan;;;;0;0;0;0
+id110;Siddharth Seth;sseth;Siddharth Seth;Hortonworks;;0;1;1;1;1
+id111;;abhishekkapoor;Abhishek Kapoor;;;;0;0;0;0
+id112;;DjvuLee;DjvuLee;;;;0;0;0;0
+id113;Jason Lowe, Jason Darrell Lowe;jlowe;Jason Darrell Lowe;Nvidia;;-6;1;1;1;1
+id114;;kj-ki;Kenji Kikushima;;;;0;0;0;0
+id115;;Charo Zhang;dockerzhang;;;;0;0;0;0
+id116;;subrotosanyal;Subroto Sanyal;;;;0;0;0;0
+id117;;brobie;Ben Robie;;;;0;0;0;0
+id118;;guodongdong;guodongdong;;;;0;0;0;0
+id119;;srimanth.gunturi;Srimanth Gunturi;;;;0;0;0;0
+id120;;rayman7718;Rayman;;;;0;0;0;0
+id121;;pradeepu;Pradeep Nayak Udupi Kadbet;;;;0;0;0;0
+id122;;dossett@gmail.com;Aaron Dossett;;;;0;0;0;0
+id123;;bshi;Bo Shi;;;;0;0;0;0
+id124;;luhuichun;luhuichun;;;;0;0;0;0
+id125;;avellant;Tatiana Avellanet;;;;0;0;0;0
+id126;;zhiyong1;zhiyong zhang;;;;0;0;0;0
+id127;;karen@cloudera.com;Karen Clark;;;;0;0;0;0
+id128;Andras Bokor;boky01;Andras Bokor;;;;0;0;1;0
+id129;;zhoukaibo;zkb555;;;;0;0;0;0
+id130;;SouryakantaDwivedy;Souryakanta Dwivedy;;;;0;0;0;0
+id131;;eddyxu;Lei (Eddy) Xu;;;;0;0;0;0
+id132;;dmbryson;David Bryson;;;;0;0;0;0
+id133;;johnvijoe;John George;;;;0;0;0;0
+id134;;XiandongQI;XiandongQI;;;;0;0;0;0
+id135;;rjain7;Rahul Jain;;;;0;0;0;0
+id136;;andrioni;Alessandro Andrioni;;;;0;0;0;0
+id137;;leosun08;Lisheng Sun;;;;0;0;0;0
+id138;;luoli;luoli;;;;0;0;0;0
+id139;;dwatzke;David Watzke;;;;0;0;0;0
+id140;;Paul Lin;Paul Lin;;;;0;0;0;0
+id141;;pairg;Gergő Pásztor;;;;0;0;0;0
+id142;;rash37;sam rash;;;;0;0;0;0
+id143;;harip;Hari Mankude;;;;0;0;0;0
+id144;;pierre.lacave;Pierre Lacave;;;;0;0;0;0
+id145;;snowch;chris snow;;;;0;0;0;0
+id146;;zuzhan;Zuoming Zhang;;;;0;0;0;0
+id147;;aaa;Amr Awadallah;;;;0;0;0;0
+id148;;james.thomas;James Thomas;;;;0;0;0;0
+id149;;mostafae;Mostafa Elhemali;;;;0;0;0;0
+id150;;amolkekre;Amol Kekre;;;;0;0;0;0
+id151;;prashant_;Without name - 1;;;;0;0;0;0
+id152;;kamesh | kam_iitkgp;Bhallamudi Venkata Siva Kamesh;;;;0;0;0;0
+id153;;ajayjadhav;Ajay Jadhav;;;;0;0;0;0
+id154;;ehf;Enrique Flores;;;;0;0;0;0
+id155;;anthony.young-garner@cloudera.com;Anthony Young-Garner;;;;0;0;0;0
+id156;;alisonyu;Alison Yu;;;;0;0;0;0
+id157;;rcatherinot;Remi Catherinot;;;;0;0;0;0
+id158;;ourui521314;Ou Rui;;;;0;0;0;0
+id159;;hudson;Hudson;;;;0;0;0;0
+id160;;snayak;Santhosh G Nayak;;;;0;0;0;0
+id161;;sinchii;Shinichi Yamashita;;;;0;0;0;0
+id162;Karthik Kambatla;kaykay.unique;Karthik K;;;;0;0;0;0
+id163;;bolke;Bolke de Bruin;;;;0;0;0;0
+id164;;water;BiCheng Lu;;;;0;0;0;0
+id165;;madhuch-ms;madhumita chakraborty;;;;0;0;0;0
+id166;;timxzl;Zhilei Xu;;;;0;0;0;0
+id167;;chenchun;Chun Chen;;;;0;0;0;0
+id168;;neelesh77;Neelesh Srinivas Salian;;;;0;0;0;0
+id169;;tsuna;Benoit Sigoure;;;;0;0;0;0
+id170;;rrh;Robert Henry;;;;0;0;0;0
+id171;;yisong;George Song;;;;0;0;0;0
+id172;;stanislav.barton;Stanislav Barton;;;;0;0;0;0
+id173;;aaperezl;Andres Perez;;;;0;0;0;0
+id174;;jasonxh;Hao Xia;;;;0;0;0;0
+id175;;u39kun;Yusaku Sako;;;;0;0;0;0
+id176;;lakshman;Laxman;;;;0;0;0;0
+id177;;bockelman;Brian Bockelman;;;;0;0;0;0
+id178;;bunty sharma;jhanver chand sharma;;;;0;0;0;0
+id179;;raviarin;Ravi Aringunram;;;;0;0;0;0
+id180;;talat;Talat Uyarer;;;;0;0;0;0
+id181;;jcb;Jeff Buell;;;;0;0;0;0
+id182;;vinithra;Vinithra Varadharajan;;;;0;0;0;0
+id183;;LianWaiYuChanChan;Jichao Zhang;;;;0;0;0;0
+id184;;gnomie;Henning Blohm;;;;0;0;0;0
+id185;;marcreichman;Marc Reichman;;;;0;0;0;0
+id186;;duanfa;duanfa;;;;0;0;0;0
+id187;;hkdennis2k;Dennis Cheung;;;;0;0;0;0
+id188;Eli Collins;eli | eli2;Eli Collins;;;;0;0;0;0
+id189;;aqadeer;Abdul Qadeer;;;;0;0;0;0
+id190;;Steven Rand;Steven Rand;;;;0;0;0;0
+id191;;dchmelev;Dmitri Chmelev;;;;0;0;0;0
+id192;;vgogate;Suhas;;;;0;0;0;0
+id193;;dennishuo;Dennis Huo;;;;0;0;0;0
+id194;;jerryshao2015;JerryShao;;;;0;0;0;0
+id195;;haosdent@gmail.com;haosdent;;;;0;0;0;0
+id196;;vivekr;Vivek Ratan;;;;0;0;0;0
+id197;;alanb;Alan Bateman;;;;0;0;0;0
+id198;;jagadish1989@gmail.com;Jagadish;;;;0;0;0;0
+id199;;iceberg565;NING DING;;;;0;0;0;0
+id200;;dam_ned;Damien Hardy;;;;0;0;0;0
+id201;;kaisasak;Kai Sasaki;;;;0;0;0;0
+id202;;tianhonglouis;Tian Hong Wang;;;;0;0;0;0
+id203;;ccondit | ccondit-target;Craig Condit;;;;0;0;0;0
+id204;;gss2002;Greg Senia;;;;0;0;0;0
+id205;;andras.piros;Andras Piros;;;;0;0;0;0
+id206;Ivan Mitic;ivanmi;Ivan Mitic;Microsoft;;-8;0;1;1;1
+id207;Zhe Zhang;zhz;Zhe Zhang;LinkedIn;HDFS;8;1;1;1;1
+id208;;xuzheng1982;Albert XU;;;;0;0;0;0
+id209;Vidura Mudalige;vbmudalige;Vidura Bhathiya Mudalige;;;;0;0;1;0
+id210;;mikeliddell;Mike Liddell;;;;0;0;0;0
+id211;;seanpo03;Sean Po;;;;0;0;0;0
+id212;;padisah;Attila Pados;;;;0;0;0;0
+id213;;jwills;Josh Wills;;;;0;0;0;0
+id214;;bohou;Bohou Li;;;;0;0;0;0
+id215;;licyh;Jiaxin Li;;;;0;0;0;0
+id216;;pocky;John Smith;;;;0;0;0;0
+id217;;coderplay;Min Zhou;;;;0;0;0;0
+id218;;mpl;Martin Petricek;;;;0;0;0;0
+id219;;yoderme;Mike Yoder;;;;0;0;0;0
+id220;;Feng Yuan;Feng Yuan;;;;0;0;0;0
+id221;;vikascjadhav;Vikas Jadhav;;;;0;0;0;0
+id222;;iamgd67;qiang Liu;;;;0;0;0;0
+id223;;zhoubangtao;Bangtao Zhou;;;;0;0;0;0
+id224;Jianfei Jiang;jiangjianfei;Jianfei Jiang;;;;0;0;1;0
+id225;Arun Suresh;asuresh;Arun Suresh;LinkedIn;;-8;1;1;1;1
+id226;;vrsatish2011;raja satish;;;;0;0;0;0
+id227;;ekundin;Esther Kundin;;;;0;0;0;0
+id228;;surfercrs4;giovanni delussu;;;;0;0;0;0
+id229;;mgong@vmware.com;meng gong;;;;0;0;0;0
+id230;;huLiu;Hu Liu,;;;;0;0;0;0
+id231;;gWdfL59U;Mark;;;;0;0;0;0
+id232;;vinaysetty;Vinay Setty;;;;0;0;0;0
+id233;;Pearl;Judeal;;;;0;0;0;0
+id234;;wutaklon@amazon.com;Taklon Stephen Wu;;;;0;0;0;0
+id235;;pavgustinov;Pavel Avgustinov;;;;0;0;0;0
+id236;;dpb;Роман Донченко;;;;0;0;0;0
+id237;;jbellis;Jonathan Ellis;;;;0;0;0;0
+id238;;nielsbasjes;Niels Basjes;;;;0;0;0;0
+id239;;kimballa;Aaron Kimball;;;;0;0;0;0
+id240;;javacruft;James Page;;;;0;0;0;0
+id241;Márton Elek;elek;Marton Elek;Hortonworks;;1;0;1;1;1
+id242;;shihaoliang;Peter Shi;;;;0;0;0;0
+id243;Andrew Wang, ;azuriel;Andrew;;;;0;0;0;0
+id244;;davet;Dave Thompson;;;;0;0;0;0
+id245;Larry McCay;lmccay;Larry McCay;Hortonworks;;-8;0;1;1;1
+id246;;JoeM;Joe Mudd;;;;0;0;0;0
+id247;;vahemesw;Varada Hemeswari;;;;0;0;0;0
+id248;;ak.arun@aol.com;Arun A K;;;;0;0;0;0
+id249;;jorda;Jordà Polo;;;;0;0;0;0
+id250;;maysamyabandeh;Maysam Yabandeh;;;;0;0;0;0
+id251;;wattsteve;Stephen Watt;;;;0;0;0;0
+id252;;Donggeun;Donggeun Lee;;;;0;0;0;0
+id253;;nilotpalnandi;Nilotpal Nandi;;;;0;0;0;0
+id254;;luxianghao;Xianghao Lu;;;;0;0;0;0
+id255;;pauravm;Paurav Munshi;;;;0;0;0;0
+id256;;huanbang1993;Anbang Hu;;;;0;0;0;0
+id257;;theduderog;Roger Hoover;;;;0;0;0;0
+id258;Koji Noguchi;knoguchi;Koji Noguchi;Verizon Media;;-8;0;1;0;1
+id259;;arun.suresh@gmail.com;-Arun Suresh-;;;;0;0;0;0
+id260;;sam liu;sam liu;;;;0;0;0;0
+id261;;Ruifeng Li;LiRuifeng;;;;0;0;0;0
+id262;Owen O'Malley;owen.omalley;Without name - 2;;;;0;0;0;0
+id263;Akira Ajisaka;ajisakaa;Without name - 3;;;;0;0;0;0
+id264;;xiaodong.hu;hu xiaodong;;;;0;0;0;0
+id265;;rulinma;rulinma;;;;0;0;0;0
+id266;;fang fang chen;fang fang chen;;;;0;0;0;0
+id267;Erik Krogen;xkrogen;Erik Krogen;LinkedIn;HDFS;-8;0;1;1;1
+id268;;manirajv06@gmail.com;Manikandan R;;;;0;0;0;0
+id269;;praste;Pushkar Raste;;;;0;0;0;0
+id270;;randyclayton;Randy Clayton;;;;0;0;0;0
+id271;;lori@cloudera.com | lori.loberg@cloudera.com;Lori Loberg;;;;0;0;0;0
+id272;;akhilsnaik;Without name - 4;;;;0;0;0;0
+id273;;chaozi204;fengchaoli;;;;0;0;0;0
+id274;;alcros;Carlos Duque;;;;0;0;0;0
+id275;;grajagandev;David Moore;;;;0;0;0;0
+id276;Steve Loughran;stevel@apache.org | steve_l;Steve Loughran;;;;0;0;0;0
+id277;;ferhui;Hui Fei;;;;0;0;0;0
+id278;;gmcdonald;Gavin McDonald;;;;0;0;0;0
+id279;;rsk13th | skrho;skrho;;;;0;0;0;0
+id280;;He Tianyi;He Tianyi;;;;0;0;0;0
+id281;;dennisyv;Dennis Y;;;;0;0;0;0
+id282;;qiuzhuang.lian;Qiuzhuang Lian;;;;0;0;0;0
+id283;Luke Lu;vicaya;Luke Lu;;;;0;0;0;0
+id284;;zhudebin;devinzhu;;;;0;0;0;0
+id285;;philipl;Philip Langdale;;;;0;0;0;0
+id286;;rohan.gsits;Rohan Kulkarni;;;;0;0;0;0
+id287;Giridharan Kesavan;gkesavan;Giridharan Kesavan;Hortonworks;RE;-8;1;1;1;1
+id288;;yangjiandan;Jiandan Yang ;;;;0;0;0;0
+id289;;npazmany;Nicole Pazmany;;;;0;0;0;0
+id290;;genericuser;Grant W;;;;0;0;0;0
+id291;;housejester;James Estes;;;;0;0;0;0
+id292;;chen317;chong chen;;;;0;0;0;0
+id293;;gmazza;Glen Mazza;;;;0;0;0;0
+id294;;awesomenix;Nishchay;;;;0;0;0;0
+id295;;kturner;Keith Turner;;;;0;0;0;0
+id296;;liulei.cn;LiuLei;;;;0;0;0;0
+id297;;lirui | Rui Li;Rui Li;;;;0;0;0;0
+id298;;shenhong;shenh062326;;;;0;0;0;0
+id299;;jinchul;Jin Chul Kim;;;;0;0;0;0
+id300;;ericzma;Eric Zhiqiang Ma;;;;0;0;0;0
+id301;Yuanbo Liu;yuanbo;Yuanbo Liu;;;;0;0;1;0
+id302;John Zhuge;jzhuge;John Zhuge;Netflix;;-8;1;1;1;1
+id303;;mjacobs;Matthew Jacobs;;;;0;0;0;0
+id304;;hwbj;wei.he;;;;0;0;0;0
+id305;;zsl2007;zhangshilong;;;;0;0;0;0
+id306;Ted Yu;yuzhihong@gmail.com | ted_yu | zhihyu@ebaysf.com;Ted Yu;;;;0;0;1;0
+id307;;carlhe;carlhe;;;;0;0;0;0
+id308;Hemanth Yamijala;yhemanth;Hemanth Yamijala;;;5,5;1;0;1;1
+id309;;chuanliu;Chuan Liu;;;;0;0;0;0
+id310;;brookz;Brook Zhou;;;;0;0;0;0
+id311;;kartheek;kartheek muthyala;;;;0;0;0;0
+id312;;chrisbo;Christoph Böhm;;;;0;0;0;0
+id313;;otrajman;Omer Trajman;;;;0;0;0;0
+id314;;wanchang;Wan Chang;;;;0;0;0;0
+id315;;djp;Without name - 5;;;;0;0;0;0
+id316;Masahiro Tanaka;masatana;Masahiro Tanaka;;;;0;0;1;0
+id317;;jgordon;John Gordon;;;;0;0;0;0
+id318;Todd Lipcon;tlipcon;Todd Lipcon;;;;0;0;0;0
+id319;;jothipn;Jothi Padmanabhan;;;;0;0;0;0
+id320;;pfg;Pedro Giffuni;;;;0;0;0;0
+id321;;namit;Namit Jain;;;;0;0;0;0
+id322;;beard;Dmytro Kabakchei;;;;0;0;0;0
+id323;;uzadude;Ohad Raviv;;;;0;0;0;0
+id324;Allen Wittenauer;aw;Allen Wittenauer;Effective Machines;;-8;0;1;1;1
+id325;;tongshiquan;tongshiquan;;;;0;0;0;0
+id326;;viji_r;Viji;;;;0;0;0;0
+id327;;vrozov;Vlad Rozov;;;;0;0;0;0
+id328;;gsbiju;Biju Nair;;;;0;0;0;0
+id329;;arov;Alex Rovner;;;;0;0;0;0
+id330;;soumabrata;Soumabrata Chakraborty;;;;0;0;0;0
+id331;;vanzin;Marcelo Masiero Vanzin;;;;0;0;0;0
+id332;;mjwall;Michael Wall;;;;0;0;0;0
+id333;;rbodkin;Ron Bodkin;;;;0;0;0;0
+id334;;memoryz;Jason Wang;;;;0;0;0;0
+id335;Devaraj K, Devarajulu K;devaraj.k;Without name - 6;;;;0;0;0;0
+id336;;ecamaj;Eduard Camaj;;;;0;0;0;0
+id337;Jitendra Nath Pandey, Jitendra Pandey;jnp | jnpandey;Jitendra Nath Pandey;;;;0;0;0;0
+id338;;bobhansen;Bob Hansen;;;;0;0;0;0
+id339;;mpvkarthick@gmail.com;Karthik Mannepalli;;;;0;0;0;0
+id340;;3opan;Zoran Dimitrijevic;;;;0;0;0;0
+id341;;gian;Gian Merlino;;;;0;0;0;0
+id342;;tsato;Tadayoshi Sato;;;;0;0;0;0
+id343;;cjjefcoat;Clark Jefcoat;;;;0;0;0;0
+id344;;initialcontext;Eli Reisman;;;;0;0;0;0
+id345;;rschmidt;Rodrigo Schmidt;;;;0;0;0;0
+id346;;vitaliy.fuks;Vitaliy Fuks;;;;0;0;0;0
+id347;;mattpaduano;Matthew Paduano;;;;0;0;0;0
+id348;;devaraj;Devaraj Kavali;Intel;;5,5;1;1;1;1
+id349;;johang;Johan Gustavsson;;;;0;0;0;0
+id350;;manish.hadoop.work@gmail.com;Manish Malhotra;;;;0;0;0;0
+id351;;abhishek.agarwal;Abhishek Agarwal;;;;0;0;0;0
+id352;Miklos Szegedi;szegedim | miklos.szegedi@cloudera.com;Miklos Szegedi;;;;0;0;0;0
+id353;;mballur;Manjunath Ballur;;;;0;0;0;0
+id354;;skuehn;Scott Kuehn;;;;0;0;0;0
+id355;;liangvls@gmail.com;Zhaohao Liang;;;;0;0;0;0
+id356;;chaitk;V.V.Chaitanya Krishna;;;;0;0;0;0
+id357;;sirianni;Eric Sirianni;;;;0;0;0;0
+id358;;jinghe;Jerry He;;;;0;0;0;0
+id359;;muddydixon;Muddy Dixon;;;;0;0;0;0
+id360;;dheeren;Dheeren Beborrtha;;;;0;0;0;0
+id361;;ozhurakousky;Oleg Zhurakousky;;;;0;0;0;0
+id362;;sriksun;Srikanth Sundarrajan;;;;0;0;0;0
+id363;;wkinney;William Kinney;;;;0;0;0;0
+id364;;vkb;VKB;;;;0;0;0;0
+id365;;pramachandran;Prakash Ramachandran;;;;0;0;0;0
+id366;;rigacrypto;Petru Dimulescu;;;;0;0;0;0
+id367;;npopa;Nicolae Popa;;;;0;0;0;0
+id368;;dz;Harshit Daga;;;;0;0;0;0
+id369;;srivas;Srivas;;;;0;0;0;0
+id370;Albert Chu;chu11;Albert Chu;;;;0;0;1;0
+id371;;davelatham;Dave Latham;;;;0;0;0;0
+id372;;dariusgm;Darius Murawski;;;;0;0;0;0
+id373;Bibin A Chundatt, bibinchundatt;bibinchundatt;Bibin Chundatt;Microsoft;;5,5;1;1;1;1
+id374;;twu;Tony Wu;;;;0;0;0;0
+id375;;fahlke;Alexander Fahlke;;;;0;0;0;0
+id376;;dvryaboy;Dmitriy V. Ryaboy;;;;0;0;0;0
+id377;;kellyzly;liyunzhang;;;;0;0;0;0
+id378;Li Lu;gtCarrera9;Li Lu;;;;0;0;0;0
+id379;;samarthjain;Samarth Jain;;;;0;0;0;0
+id380;;rahulp;Rahul Pathak;;;;0;0;0;0
+id381;;hanm;Michael Han;;;;0;0;0;0
+id382;;nlorang;Noah Lorang;;;;0;0;0;0
+id383;;rajesh.balamohan;Rajesh Balamohan;;;;0;0;0;0
+id384;;demongaorui;Rui Gao;;;;0;0;0;0
+id385;;langera;Amir Langer;;;;0;0;0;0
+id386;;josephfourny;Joseph Fourny;;;;0;0;0;0
+id387;;vperiasamy;Without name - 7;;;;0;0;0;0
+id388;Bharat Viswanadham, bharat;bharatviswa;Without name - 8;;;;0;0;0;0
+id389;;stamas;Tamas Sarlos;;;;0;0;0;0
+id390;Giovanni Matteo Fumarola;giovanni.fumarola;Giovanni Matteo Fumarola;;;;0;0;0;0
+id391;;mrgh;Mohammad Ghanavati;;;;0;0;0;0
+id392;;weiwuang;Austin wei;;;;0;0;0;0
+id393;;sumitmohanty;Sumit Mohanty;;;;0;0;0;0
+id394;;nitin.verma@gmail.com;NITIN VERMA;;;;0;0;0;0
+id395;;Huangkx6810;Huangkaixuan;;;;0;0;0;0
+id396;;zhiguohong;Hong Zhiguo;;;;0;0;0;0
+id397;;clouderajiayi;Jiayi Zhou;;;;0;0;0;0
+id398;;streamy;Jonathan Gray;;;;0;0;0;0
+id399;;nicktelford;Nicholas Telford;;;;0;0;0;0
+id400;Charles Lamb;clamb;Charles Lamb;;;;0;0;1;0
+id401;;PieterReuse;Pieter Reuse;;;;0;0;0;0
+id402;Daryn Sharp;daryn;Daryn Sharp;Verizon Media;;-6;1;1;1;1
+id403;;arunxarun;Arun Jacob;;;;0;0;0;0
+id404;;shanem;Shane Mainali;;;;0;0;0;0
+id405;;teledriver;Xiaobo Peng;;;;0;0;0;0
+id406;;farrellee;Matthew Farrellee;;;;0;0;0;0
+id407;;shenyinjie;Shen Yinjie;;;;0;0;0;0
+id408;;pburkhardt;Paul Burkhardt;;;;0;0;0;0
+id409;;wangzw;Zhanwei Wang;;;;0;0;0;0
+id410;;mgrover;Mark Grover;;;;0;0;0;0
+id411;;costin;Costin Manolache;;;;0;0;0;0
+id412;;ravindra.naik;Ravindra Kumar Naik;;;;0;0;0;0
+id413;;freestyler;freestyler;;;;0;0;0;0
+id414;;jayf;Jay Finger;;;;0;0;0;0
+id415;;prkommireddi;Prashant Kommireddi;;;;0;0;0;0
+id416;Wangda Tan;wangda | leftnoteasy;Wangda Tan;;;;0;0;0;0
+id417;;ngrigoriev@gmail.com;Nikolai Grigoriev;;;;0;0;0;0
+id418;Jonathan Eagles, Jonathan Turner Eagles;jeagles;Jonathan Turner Eagles;Verizon Media;;-6;1;1;1;1
+id419;;cwelch;Craig Welch;;;;0;0;0;0
+id420;;r1pp3rj4ck;Without name - 9;;;;0;0;0;0
+id421;;nperiwal;Narayan Periwal;;;;0;0;0;0
+id422;;nowland;Ian Nowland;;;;0;0;0;0
+id423;;zhendong;Dong Zhen;;;;0;0;0;0
+id424;;debugging;debugging;;;;0;0;0;0
+id425;;tanakahda;Aki Tanaka;;;;0;0;0;0
+id426;;nwatkins;Noah Watkins;;;;0;0;0;0
+id427;;beeflyme;caixiaofeng;;;;0;0;0;0
+id428;;fengshen;caolong;;;;0;0;0;0
+id429;;xinxianyin;Xianyin Xin;;;;0;0;0;0
+id430;;alanburlison;Alan Burlison;;;;0;0;0;0
+id431;;kroshilina;valentina kroshilina;;;;0;0;0;0
+id432;Vinitha Reddy Gankidi;redvine;Vinitha Reddy Gankidi;;;;0;0;1;0
+id433;;joemcdonnell;Joe McDonnell;;;;0;0;0;0
+id434;;thejas;Thejas Nair;;;;0;0;0;0
+id435;;arun_kumar;arunkumar;;;;0;0;0;0
+id436;;dennyy;Denny Ye;;;;0;0;0;0
+id437;;jameszhouyi;Yi Zhou;;;;0;0;0;0
+id438;;sodonnell;Stephen O'Donnell;;;;0;0;0;0
+id439;;chenheng;Heng Chen;;;;0;0;0;0
+id440;;abayer;Andrew Bayer;;;;0;0;0;0
+id441;;xuchuanyin;Chuanyin Xu;;;;0;0;0;0
+id442;;schubertzhang;Schubert Zhang;;;;0;0;0;0
+id443;Ramya Sunil;rramya;Ramya Sunil;;;;0;0;0;0
+id444;;rajatjain | rjainqb;Rajat Jain;;;;0;0;0;0
+id445;;mingjielai;Mingjie Lai;;;;0;0;0;0
+id446;;akki261001;Akshay Agarwal;;;;0;0;0;0
+id447;;stevenwillis;Steven Willis;;;;0;0;0;0
+id448;Sean Mackrory;mackrorysd;Sean Mackrory;Cloudera;;-7;0;1;1;1
+id449;;jake-low;Jake Low;;;;0;0;0;0
+id450;;giyer;Ganeshan Iyer;;;;0;0;0;0
+id451;;sfriberg;Staffan Friberg;;;;0;0;0;0
+id452;;weberte;Without name - 10;;;;0;0;0;0
+id453;;ekohlwey;Ed Kohlwey;;;;0;0;0;0
+id454;;potato;potato;;;;0;0;0;0
+id455;;marks1900;Mark S;;;;0;0;0;0
+id456;;mitdesai;Mit Desai;;;;0;0;0;0
+id457;;avinz50;Avinash Kujur;;;;0;0;0;0
+id458;;gp.leftnoteasy;Wangda Tan (No longer used);;;;0;0;0;0
+id459;Suma Shivaprasad;suma.shivaprasad;Suma Shivaprasad;;;;0;0;1;0
+id460;;bsteinbach;Antal Bálint Steinbach;;;;0;0;0;0
+id461;;mtracy;Mitchell Tracy;;;;0;0;0;0
+id462;;chetna;Chetna Chaudhari;;;;0;0;0;0
+id463;;zhuwep@163.com;Wilbur;;;;0;0;0;0
+id464;;John Smith;Yuxuan Wang;;;;0;0;0;0
+id465;;zhengxg3;Sherwood Zheng;;;;0;0;0;0
+id466;;dankm;Dan McGregor;;;;0;0;0;0
+id467;;cwimmer;Charles Wimmer;;;;0;0;0;0
+id468;;bmaurer;Ben Maurer;;;;0;0;0;0
+id469;;ottomata;Andrew Otto;;;;0;0;0;0
+id470;;ramyan;Ramya Bharathi Nimmagadda;;;;0;0;0;0
+id471;;d4rr3ll;Darrell Taylor;;;;0;0;0;0
+id472;;dchickabasapa;Dushyanth;;;;0;0;0;0
+id473;;jiangbinglover;Bing Jiang;;;;0;0;0;0
+id474;;michaelk;Michael Katzenellenbogen;;;;0;0;0;0
+id475;;naisbitt;Jeffrey Naisbitt;;;;0;0;0;0
+id476;;OrDTesters;OrDTesters;;;;0;0;0;0
+id477;;lavkesh;Lavkesh Lahngir;;;;0;0;0;0
+id478;;sergeant;Sergey Tryuber;;;;0;0;0;0
+id479;Karthik Kambatla;kasha | kkambatl;Karthik Kambatla;;;;0;0;0;0
+id480;;runping;Runping Qi;;;;0;0;0;0
+id481;;SoumyaPN;Soumyapn;;;;0;0;0;0
+id482;;pranay_singh;Pranay Singh;;;;0;0;0;0
+id483;;taozhang;TaoZhang;;;;0;0;0;0
+id484;;hsn;Radim Kolar;;;;0;0;0;0
+id485;;Markovich;Rivkin Andrey;;;;0;0;0;0
+id486;;asherman;Andrew Sherman;;;;0;0;0;0
+id487;Chao Sun;csun;Chao Sun;;;;0;0;0;0
+id488;;sravya | sravya8;Sravya Tirukkovalur;;;;0;0;0;0
+id489;;gphillips;Greg Phillips;;;;0;0;0;0
+id490;Tsuyoshi Ozawa;ozawa;Tsuyoshi Ozawa;NTT;;9;1;1;1;1
+id491;Joe Mészáros;joemeszaros;Joe Mészáros;;;;0;0;1;0
+id492;;rohit_kochar;Rohit Kochar;;;;0;0;0;0
+id493;;ercoppa;Emilio Coppa;;;;0;0;0;0
+id494;;alex.holmes;Alex Holmes;;;;0;0;0;0
+id495;;pvillard;Pierre Villard;;;;0;0;0;0
+id496;;Juliasommer;Julia Sommer;;;;0;0;0;0
+id497;Jinjiang Ling;lingjinjiang;Jinjiang Ling;;;;0;0;1;0
+id498;;hellojinjie;hellojinjie;;;;0;0;0;0
+id499;;misha@cloudera.com;Misha Dmitriev;;;;0;0;0;0
+id500;;abutala;Abhiraj Butala;;;;0;0;0;0
+id501;;zlatinb;Zlatin Balevsky;;;;0;0;0;0
+id502;;adam.antal;Adam Antal;;;;0;0;0;0
+id503;;zhoutai.zt;zhoutai.zt;;;;0;0;0;0
+id504;;CatLovers;Sam Clus;;;;0;0;0;0
+id505;;cwilkes;Chris Wilkes;;;;0;0;0;0
+id506;;jblatt | jtblatt;Joshua Blatt;;;;0;0;0;0
+id507;;dud;dud;;;;0;0;0;0
+id508;;criccomini;Chris Riccomini;;;;0;0;0;0
+id509;Arun C Murthy, Arun C. Murthy, Arun Murthy;acmurthy;Arun Murthy;Hortonworks;;-8;1;1;1;1
+id510;;hcoyote;Travis Campbell;;;;0;0;0;0
+id511;;srevanka;Shradha Revankar;;;;0;0;0;0
+id512;;stwhit;Stuart White;;;;0;0;0;0
+id513;;yeshavora;Yesha Vora;;;;0;0;0;0
+id514;;gsaha;Gour Saha;;;;0;0;0;0
+id515;;anupamseth;Anupam Seth;;;;0;0;0;0
+id516;;rvenkat123;Venkatasubramaniam Ramakrishnan;;;;0;0;0;0
+id517;;yangyishan0901m;Yishan Yang;;;;0;0;0;0
+id518;;Hongyuan Li;Hongyuan Li;;;;0;0;0;0
+id519;;scurrilous;Trevor Robinson;;;;0;0;0;0
+id520;;kgs;Kamil Gorlo;;;;0;0;0;0
+id521;;darumugam;Dilli Arumugam;;;;0;0;0;0
+id522;Gabor Bota;gabor.bota;Gabor Bota;;;;0;0;0;0
+id523;;sarutak;Kousuke Saruta;;;;0;0;0;0
+id524;;kiranmr;Kiran Kumar M R;;;;0;0;0;0
+id525;;ponyloky;Pony;;;;0;0;0;0
+id526;;billa;William Au;;;;0;0;0;0
+id527;;surendrasingh;Without name - 11;;;;0;0;0;0
+id528;;thomas.jungblut;Thomas Jungblut;;;;0;0;0;0
+id529;;manishdunani;manish v dunani;;;;0;0;0;0
+id530;;jfarrell;Jake Farrell;;;;0;0;0;0
+id531;;PKUKILLA;Premchandra Preetham Kukillaya;;;;0;0;0;0
+id532;;gnt;Without name - 12;;;;0;0;0;0
+id533;He Xiaoqiao;hexiaoqiao;Xiaoqiao He;Meituan;;5,5;0;1;0;1
+id534;;erich.schubert;Erich Schubert;;;;0;0;0;0
+id535;Benoy Antony;benoyantony;Benoy Antony;;;;0;0;0;0
+id536;;cpbhagtani;Chandra Prakash Bhagtani;;;;0;0;0;0
+id537;;zb161;zhubin;;;;0;0;0;0
+id538;;gokulm | slukog;Gokul;;;;0;0;0;0
+id539;;iker.jimenez;Iker Jimenez;;;;0;0;0;0
+id540;;sturman;Daniel Sturman;;;;0;0;0;0
+id541;;fs111;André Kelpe;;;;0;0;0;0
+id542;;Zian Chen;Zian Chen;;;;0;0;0;0
+id543;;blackpoint_ed;Without name - 13;;;;0;0;0;0
+id544;;dongtingting8877@163.com;dongtingting;;;;0;0;0;0
+id545;Vinod Kumar Vavilapalli, Vinod Kumar Vavilapalli (I am also known as @tshooter.), vinod kumar vavilapalli (i am also known as @tshooter.);vinodkv;Vinod Kumar Vavilapalli;Hortonworks;;-8;1;1;1;1
+id546;;hkongsgaard;Håvard Wahl Kongsgård;;;;0;0;0;0
+id547;;mamun;S M Al Mamun;;;;0;0;0;0
+id548;;veita;Alexander Veit;;;;0;0;0;0
+id549;;Jim_Brennan;Jim Brennan;;;;0;0;0;0
+id550;;shrijeet;Shrijeet Paliwal;;;;0;0;0;0
+id551;Billie Rinaldi;billie.rinaldi;Without name - 14;;;;0;0;0;0
+id552;;shenxiaoli;Dongcai Shen;;;;0;0;0;0
+id553;;lewismc;Lewis John McGibbney;;;;0;0;0;0
+id554;;civascu;Cristian Ivascu;;;;0;0;0;0
+id555;;piaoyu zhang;zhangyubiao;;;;0;0;0;0
+id556;Plamen Jeliazkov;zero45;Plamen Jeliazkov;;;;0;0;1;0
+id557;;zhangyongxyz;Yong Zhang;;;;0;0;0;0
+id558;Tom Zeng;tomzeng;Tom Zeng;;;;0;0;1;0
+id559;;garymurry;gary murry;;;;0;0;0;0
+id560;;waxmiguel;wax miguel;;;;0;0;0;0
+id561;;ojoshi;Omkar Vinit Joshi;;;;0;0;0;0
+id562;;linchan;Lin Chan;;;;0;0;0;0
+id563;;mahongbin;Hongbin Ma;;;;0;0;0;0
+id564;;sinago;zhouyingchao;;;;0;0;0;0
+id565;;usrikanth;Srikanth Upputuri;;;;0;0;0;0
+id566;;yuling.sh;yuling;;;;0;0;0;0
+id567;;evanand;evanand;;;;0;0;0;0
+id568;Chandni Singh;csingh;Chandni Singh;LinkedIn;;-8;0;1;0;1
+id569;;tfukudom;Takuya Fukudome;;;;0;0;0;0
+id570;;haoch;Hao Chen;;;;0;0;0;0
+id571;;swarnim;Swarnim Kulkarni;;;;0;0;0;0
+id572;;john.jian.fang;Jian Fang;;;;0;0;0;0
+id573;;sonuprathap;Sonu Prathap;;;;0;0;0;0
+id574;;quaff;Yanming Zhou;;;;0;0;0;0
+id575;;patibandlas2;Siva Teja Patibandla;;;;0;0;0;0
+id576;;zsiegl;Zoltan Siegl;;;;0;0;0;0
+id577;;bowang;Bo Wang;;;;0;0;0;0
+id578;;venkatnrangan;Venkat Ranganathan;;;;0;0;0;0
+id579;Anubhav Dhoot;adhoot;Anubhav Dhoot;Cloudera;;-8;0;1;1;1
+id580;;gcabrer;Guillermo Cabrera;;;;0;0;0;0
+id581;;praveensripati;praveen sripati;;;;0;0;0;0
+id582;Johan Oskarsson;johanoskarsson;Johan Oskarsson;;;;0;0;0;0
+id583;;enevill;Edward Nevill;;;;0;0;0;0
+id584;;nijel;nijel;;;;0;0;0;0
+id585;Enis Soztutar;enis;Enis Soztutar;Hortonworks;;-6;1;1;1;1
+id586;Kihwal Lee;kihwal;Kihwal Lee;Verizon Media;;-6;1;1;1;1
+id587;;zichensun;Zichen Sun;;;;0;0;0;0
+id588;;damien.carol;Damien Carol;;;;0;0;0;0
+id589;;hagleitn;Gunther Hagleitner;;;;0;0;0;0
+id590;;benkimkimben;Benjamin Kim;;;;0;0;0;0
+id591;;tassapola;Tassapol Athiapinya;;;;0;0;0;0
+id592;;almacro;Al Thompson;;;;0;0;0;0
+id593;;sameerp;Sameer Paranjpye;;;;0;0;0;0
+id594;Uma Maheswara Rao G, Uma Mahesh, Uma Maheswara Rao Gangumalla;umamaheswararao | umamahesh;Uma Maheswara Rao G;;;;0;0;0;0
+id595;;vincent he;Wenxin He;;;;0;0;0;0
+id596;;prophy999;prophy Yan;;;;0;0;0;0
+id597;;karanmehta93;Karan Mehta;;;;0;0;0;0
+id598;;cabad;Cristina L. Abad;;;;0;0;0;0
+id599;;mark_yang;Mark Yang;;;;0;0;0;0
+id600;;tim2;Tim Williamson;;;;0;0;0;0
+id601;;cassanada;taojie;;;;0;0;0;0
+id602;;kostrzewa;Zbigniew Kostrzewa;;;;0;0;0;0
+id603;;dmanojbabu;Manoj Babu D;;;;0;0;0;0
+id604;;rvadali;Ramkumar Vadali;;;;0;0;0;0
+id605;;sourabh912;Sourabh Goyal;;;;0;0;0;0
+id606;;in-chief;Xiaoshuang LU;;;;0;0;0;0
+id607;;zhengchenyu;zhengchenyu;;;;0;0;0;0
+id608;Manoj Govindassamy;manojg;Manoj Govindassamy;;;;0;0;0;0
+id609;;jerryshao;Saisai Shao;;;;0;0;0;0
+id610;;jesse_yates;Jesse Yates;;;;0;0;0;0
+id611;;gzh1992n;Zephyr Guo;;;;0;0;0;0
+id612;;sandflee;sandflee;;;;0;0;0;0
+id613;Ajay Kumar, ;jsaraiya;Jay;;;;0;0;0;0
+id614;;loushang;loushang;;;;0;0;0;0
+id615;;Harsha1206;Harshakiran Reddy;;;;0;0;0;0
+id616;;simonw;Simon Willnauer;;;;0;0;0;0
+id617;;Ying Zhang;Ying Zhang;;;;0;0;0;0
+id618;;zasran;Erik Steffl;;;;0;0;0;0
+id619;Naganarasimha G R, Naganarasimha;Naganarasimha;Naganarasimha G R;;;;0;0;0;0
+id620;;sbarrier;Sebastien Barrier;;;;0;0;0;0
+id621;;jianchao jia;Jianchao Jia;;;;0;0;0;0
+id622;;lhillenbrand;Linden Hillenbrand;;;;0;0;0;0
+id623;;svenkataraman666;Shankar Venkataraman;;;;0;0;0;0
+id624;;cbradford;Chase Bradford;;;;0;0;0;0
+id625;;jerrychenhf;Haifeng Chen;;;;0;0;0;0
+id626;;lohit;Lohit Vijaya Renu;Twitter;;-5;0;1;0;1
+id627;;lancenorskog;Lance Norskog;;;;0;0;0;0
+id628;;rvesse;Rob Vesse;;;;0;0;0;0
+id629;Tanping Wang;tanping;Tanping Wang;Yahoo!;;9;0;1;1;1
+id630;;aloknsingh;Alok Singh;;;;0;0;0;0
+id631;;anoop.hbase | anoopsamjohn;Anoop Sam John;;;;0;0;0;0
+id632;;mroark;Mike Roark;;;;0;0;0;0
+id633;;kwx417842;Kiran N;;;;0;0;0;0
+id634;;ihavenoemail@163.com;Jiahongchao;;;;0;0;0;0
+id635;;ramtinb;ramtin;;;;0;0;0;0
+id636;;mujunchao;mujunchao;;;;0;0;0;0
+id637;;zjffdu;Jeff Zhang;;;;0;0;0;0
+id638;;tibor.kiss@gmail.com;Tibor Kiss;;;;0;0;0;0
+id639;;deepujain;Deepak Kumar V;;;;0;0;0;0
+id640;;phobos182;Jeremy Carroll;;;;0;0;0;0
+id641;;vinishavyasa;vinisha;;;;0;0;0;0
+id642;;evertlammerts;Evert Lammerts;;;;0;0;0;0
+id643;;Jobo;Bob.zhao;;;;0;0;0;0
+id644;Tsz Wo (Nicholas) Sze, Tsz-Wo Nicholas Sze, Tsz-Wo Sze;szetszwo;Tsz-wo Sze;Hortonworks;;8;1;1;1;1
+id645;;abkshvn;Abhishek Shivanna;;;;0;0;0;0
+id646;Tom White, Thomas White;tomwhite;Thomas White;Cloudera;;5,5;1;1;1;1
+id647;;jackbearden;Jack Bearden;;;;0;0;0;0
+id648;;GWong;George Wong;;;;0;0;0;0
+id649;;suda;Akihiro Suda;;;;0;0;0;0
+id650;;jboulon;Jerome Boulon;;;;0;0;0;0
+id651;;cwchung;CW Chung;;;;0;0;0;0
+id652;;mafr;Matthias Friedrich;;;;0;0;0;0
+id653;;darose;David Rosenstrauch;;;;0;0;0;0
+id654;;marsishandsome;Liangliang Gu;;;;0;0;0;0
+id655;Shane Kumpf;shanekumpf@gmail.com;Shane Kumpf;;;;0;0;1;0
+id656;;ryanhennig;Ryan Hennig;;;;0;0;0;0
+id657;;kylelin2000;Kyle Lin;;;;0;0;0;0
+id658;;brianbloniarz;Brian Bloniarz;;;;0;0;0;0
+id659;;rayokota;Robert Yokota;;;;0;0;0;0
+id660;;beckham007;Beckham007;;;;0;0;0;0
+id661;;aanand001c;Amit Anand;;;;0;0;0;0
+id662;;patrickangeles;Patrick Angeles;;;;0;0;0;0
+id663;;lhofhansl;Without name - 15;;;;0;0;0;0
+id664;;fanqiushi;fanqiushi;;;;0;0;0;0
+id665;;ythung1;Henry Hung;;;;0;0;0;0
+id666;;stau-tudelft;Sietse T. Au;;;;0;0;0;0
+id667;Mayank Bansal;mayank_bansal;Mayank Bansal;;;;0;0;0;0
+id668;;charanh;Charan Hebri;;;;0;0;0;0
+id669;Hrishikesh Gadre;hgadre;Hrishikesh Gadre;;;;0;0;1;0
+id670;;huizane;Hui Zheng;;;;0;0;0;0
+id671;;rkellogg;Richard Kellog Jr.;;;;0;0;0;0
+id672;;erofeev;Mikhail Erofeev;;;;0;0;0;0
+id673;;balajirg;Balaji Rajagopalan;;;;0;0;0;0
+id674;;skywoody;Haiyang Jiang;;;;0;0;0;0
+id675;;coheigea;Colm O hEigeartaigh;;;;0;0;0;0
+id676;;krisden;Kevin Risden;;;;0;0;0;0
+id677;;michaeledmonds;Michael Edmonds;;;;0;0;0;0
+id678;;mzuehlke;Marco Zühlke;;;;0;0;0;0
+id679;Anu Engineer;anu;Without name - 16;;;;0;0;0;0
+id680;;skhurana333;Sandeep Khurana;;;;0;0;0;0
+id681;;henryr;Henry Robinson;;;;0;0;0;0
+id682;;dsalychev;Dmitry Salychev;;;;0;0;0;0
+id683;;dboolbe;John Lewis;;;;0;0;0;0
+id684;;gauravj;Gaurav Jain;;;;0;0;0;0
+id685;Ayush Saxena;ayushtkn;Ayush Saxena;;;;0;0;0;0
+id686;;jonbringhurst;Jon Bringhurst;;;;0;0;0;0
+id687;;karams;Karam Singh;;;;0;0;0;0
+id688;Shweta;shwetayakkali;Shweta;;;;0;0;1;0
+id689;;plinnell;Peter Linnell;;;;0;0;0;0
+id690;;angeloh;Angelo K. Huang;;;;0;0;0;0
+id691;;wfeng1982;wangfeng;;;;0;0;0;0
+id692;;bryanduxbury;Bryan Duxbury;;;;0;0;0;0
+id693;;newanja;Nemanja Matkovic;;;;0;0;0;0
+id694;;bassam;Bassam Tabbara;;;;0;0;0;0
+id695;;NJUJYB;Jin Yibo;;;;0;0;0;0
+id696;;ramsek;Ramesh Sekaran;;;;0;0;0;0
+id697;;ekoontz;Eugene Joseph Koontz;;;;0;0;0;0
+id698;;pradeepambati;Pradeep Ambati;;;;0;0;0;0
+id699;;raja@cmbasics.com;Raja Aluri;;;;0;0;0;0
+id700;;tmielke;Torsten Mielke;;;;0;0;0;0
+id701;;leiqiang;tsianglei;;;;0;0;0;0
+id702;;shps;Hooman Peiro Sajjad;;;;0;0;0;0
+id703;;matzee;Matthias Eckert;;;;0;0;0;0
+id704;;legend-hua;legend;;;;0;0;0;0
+id705;;dian.fu;Dian Fu;;;;0;0;0;0
+id706;;kminder;Kevin Minder;;;;0;0;0;0
+id707;;hshreedharan;Hari Shreedharan;;;;0;0;0;0
+id708;Robert(Bobby) Evans, Robert Joseph Evans;revans2;Robert Joseph Evans;;;;0;0;0;0
+id709;;sandholm;Thomas Sandholm;;;;0;0;0;0
+id710;;sampada15;Sampada Dehankar;;;;0;0;0;0
+id711;;weichao;Weichao Ruan;;;;0;0;0;0
+id712;;hboutemy;Herve Boutemy;;;;0;0;0;0
+id713;;billyean;Haibo Yan;;;;0;0;0;0
+id714;;chenhsiu;Chen-hsiu Huang;;;;0;0;0;0
+id715;Jonathan Hung;jhung;Jonathan Hung;LinkedIn;;-8;1;1;0;1
+id716;;megas;Megasthenis Asteris;;;;0;0;0;0
+id717;;Rosa;Rosa Ali;;;;0;0;0;0
+id718;;rdblue;Ryan Blue;;;;0;0;0;0
+id719;;jlord;Jeff Lord;;;;0;0;0;0
+id720;;guoshiwei;Shiwei Guo;;;;0;0;0;0
+id721;;tanujnay;Tanuj Nayak;;;;0;0;0;0
+id722;;priyank.rastogi;Priyank Rastogi;;;;0;0;0;0
+id723;Rohith Sharma K S, rohithsharmaks;rohithsharma;Rohith Sharma K S;;;;0;0;0;0
+id724;;gemini5201314;alex gemini;;;;0;0;0;0
+id725;;discord;Colin Williams;;;;0;0;0;0
+id726;;robw;Rob Weltman;;;;0;0;0;0
+id727;;jbonofre;Jean-Baptiste Onofré;;;;0;0;0;0
+id728;;roko;Roko Kruze;;;;0;0;0;0
+id729;;mparkin;Michael Parkin;;;;0;0;0;0
+id730;;guoleitao | ltguo;Leitao Guo;;;;0;0;0;0
+id731;;Virginia Wang;Virginia Wang;;;;0;0;0;0
+id732;;rksingh;rahul k singh;;;;0;0;0;0
+id733;;jiraposter@reviews.apache.org;jiraposter@reviews.apache.org;;;;0;0;0;0
+id734;Daniel Templeton;daniel@cloudera.com | templedf;Daniel Templeton;;;;0;0;0;0
+id735;;sjtufighter;WangMeng;;;;0;0;0;0
+id736;;malcolm kavalsky;Malcolm Kavalsky;;;;0;0;0;0
+id737;Brahma Reddy Battula;brahmareddy;Brahma Reddy Battula;;;;0;0;0;0
+id738;;akhilpb;Akhil PB;;;;0;0;0;0
+id739;;tmgstev;Tristan Stevens;;;;0;0;0;0
+id740;;marcellhegedus;Marcell Hegedus;;;;0;0;0;0
+id741;;gsohn;Grant Sohn;;;;0;0;0;0
+id742;;michael.tamm;Michael Tamm;;;;0;0;0;0
+id743;Mukul Kumar Singh;msingh;Mukul Kumar Singh;Hortonworks;;-8;1;1;1;1
+id744;Chris Trezzo;ctrezzo;Chris Trezzo;Twitter;;-8;0;1;1;1
+id745;;CarreyZhan;Carrey Zhan;;;;0;0;0;0
+id746;;uladz;Vlad Sharanhovich;;;;0;0;0;0
+id747;John Zhuge, ;Xiangyi;zhu;;;;0;0;0;0
+id748;;pattipaka;Subramanyam Pattipaka;;;;0;0;0;0
+id749;;m.pryahin;Mikhail Pryakhin;;;;0;0;0;0
+id750;;yixiaohuamaxfly;yixiaohua;;;;0;0;0;0
+id751;;Ferd;Ferdinand Xu;;;;0;0;0;0
+id752;;hjingyou;huangjingyou;;;;0;0;0;0
+id753;;radhey;Radhey Shah;;;;0;0;0;0
+id754;;dmrzh;Dmitry Rzhevskiy;;;;0;0;0;0
+id755;;RANith;Ranith Sardar;;;;0;0;0;0
+id756;;hfyang20071;yanghuafeng;;;;0;0;0;0
+id757;;tdhavle;Trupti Dhavle;;;;0;0;0;0
+id758;;kbadani;Kshitij Badani;;;;0;0;0;0
+id759;Sharad Agarwal;sharadag;Sharad Agarwal;;;;0;0;0;0
+id760;;aprabhakar;Arvind Prabhakar;;;;0;0;0;0
+id761;;chenfolin;ChenFolin;;;;0;0;0;0
+id762;;viraj;Viraj Bhat;;;;0;0;0;0
+id763;;mojodna;Seth Fitzsimmons;;;;0;0;0;0
+id764;;kpriceyahoo;Kevin J. Price;;;;0;0;0;0
+id765;;nputnam;Nate Putnam;;;;0;0;0;0
+id766;;glottis;Marc Heide;;;;0;0;0;0
+id767;;gayakwad;Abhishek Gayakwad;;;;0;0;0;0
+id768;;jmluy;John Michael Luy;;;;0;0;0;0
+id769;;vrathor-hw;Vipin Rathor;;;;0;0;0;0
+id770;;sangameshs;sangamesh;;;;0;0;0;0
+id771;John Zhuge, ;abalitsky;John;;;;0;0;0;0
+id772;;steve_rowe;Without name - 17;;;;0;0;0;0
+id773;;SINGHVJD;Vijay Singh;;;;0;0;0;0
+id774;;jonathan.bender;Jonathan Bender;;;;0;0;0;0
+id775;;candychencan;chencan;;;;0;0;0;0
+id776;;wlin;Wen Lin;;;;0;0;0;0
+id777;;yarntime;yarntime;;;;0;0;0;0
+id778;;thanhdo;Thanh Do;;;;0;0;0;0
+id779;;jwang302;Jinghui Wang;;;;0;0;0;0
+id780;Dmytro Molkov;dms;Dmytro Molkov;;;;0;0;0;0
+id781;Hanisha Koneru;hanishakoneru;Hanisha Koneru;Hortonworks;;-8;0;1;1;1
+id782;;andrewr;Andrew Ryan;;;;0;0;0;0
+id783;;xinshengjun;Shengjun Xin;;;;0;0;0;0
+id784;;liyang;Li Yang;;;;0;0;0;0
+id785;;lukeforehand;Luke Forehand;;;;0;0;0;0
+id786;;atindle;Andrew Tindle;;;;0;0;0;0
+id787;;shetaksroc;Akshay;;;;0;0;0;0
+id788;;alexfo;Alexandre Fouché;;;;0;0;0;0
+id789;Matei Zaharia;matei@eecs.berkeley.edu;Matei Zaharia;;;;0;0;0;0
+id790;;mary;T Meyarivan;;;;0;0;0;0
+id791;Abhishek Modi;abmodi;Abhishek Modi;Microsoft;;5,5;0;1;0;1
+id792;Haibo Chen;haibochen;Haibo Chen;LinkedIn;;5,5;1;1;1;1
+id793;Nanda kumar;nandakumar131;Without name - 18;;;;0;0;0;0
+id794;;oneday;huangyitian;;;;0;0;0;0
+id795;;cmeyerisi;Conrad Meyer;;;;0;0;0;0
+id796;;jmaron;Jonathan Maron;;;;0;0;0;0
+id797;;vishwajeet.dusane;Vishwajeet Dusane;;;;0;0;0;0
+id798;;zeller;Bill Zeller;;;;0;0;0;0
+id799;Sammi Chen;Sammi;Sammi Chen;;;;0;0;0;0
+id800;;ranjit;Ranjit Mathew;;;;0;0;0;0
+id801;;jsensarma;Joydeep Sen Sarma;;;;0;0;0;0
+id802;;niccolo.becchi;niccolo becchi;;;;0;0;0;0
+id803;;azuryy;Fengdong Yu;;;;0;0;0;0
+id804;;decster;Binglin Chang;;;;0;0;0;0
+id805;;kyungwan nam;kyungwan nam;;;;0;0;0;0
+id806;;anatoli.fomenko;Anatoli Fomenko;;;;0;0;0;0
+id807;;tlevine;Thomas Levine;;;;0;0;0;0
+id808;;Xinglong.Li;Xinglong.Li;;;;0;0;0;0
+id809;;patwhitey2007;patrick white;;;;0;0;0;0
+id810;;xuchenCN;Xu Chen;;;;0;0;0;0
+id811;;markus17;Markus Jelsma;;;;0;0;0;0
+id812;;l201514;Siqi Li;;;;0;0;0;0
+id813;;ycbai;ycbai;;;;0;0;0;0
+id814;;dchuyko;Dmitry Chuyko;;;;0;0;0;0
+id815;;sew;Sarah Weissman;;;;0;0;0;0
+id816;;xietingwen;Xie Tingwen;;;;0;0;0;0
+id817;;kgyrtkirk;Zoltan Haindrich;;;;0;0;0;0
+id818;Gera Shegalov;jira.shegalov;Gera Shegalov;;;;0;0;0;0
+id819;;skmvasu;Vasudevan Skm;;;;0;0;0;0
+id820;;vgogate@gopivotal.com;Vitthal Gogate;;;;0;0;0;0
+id821;;bdscheller;Brandon Scheller;;;;0;0;0;0
+id822;Virajith Jalaparti;virajith;Virajith Jalaparti;;;;0;0;1;0
+id823;;Apache9;Without name - 19;;;;0;0;0;0
+id824;;forvines;Forrest Vines;;;;0;0;0;0
+id825;;meonkeys;Adam Monsen;;;;0;0;0;0
+id826;Yi Liu, yliu;hitliuyi;Yi Liu;;;;0;0;0;0
+id827;;vinaythota;Vinay Kumar Thota;;;;0;0;0;0
+id828;;shiloa;Shilo Ayalon;;;;0;0;0;0
+id829;;caseyjbrotherton;Casey Brotherton;;;;0;0;0;0
+id830;;lukmajercak;Lukas Majercak;;;;0;0;0;0
+id831;;alangates;Without name - 20;;;;0;0;0;0
+id832;;wangmeng;MengWang;;;;0;0;0;0
+id833;;wuzesheng;Zesheng Wu;;;;0;0;0;0
+id834;Szilard Nemeth;snemeth;Szilard Nemeth;Cloudera;;-8;0;1;0;1
+id835;;loungerdork;Samuel Low;;;;0;0;0;0
+id836;;andrewmilkowski;Andrew Milkowski;;;;0;0;0;0
+id837;;panyuxuan;Pan Yuxuan;;;;0;0;0;0
+id838;;rajvish;Raj Vishwanathan;;;;0;0;0;0
+id839;;efegencer;Efe Gencer;;;;0;0;0;0
+id840;;esoren;Egil Sorensen;;;;0;0;0;0
+id841;;dougcook;Doug Cook;;;;0;0;0;0
+id842;;fenghua_hu;Fenghua Hu;;;;0;0;0;0
+id843;;mike.mellenthin;Mike Mellenthin;;;;0;0;0;0
+id844;Zsolt Venczel;zvenczel;Zsolt Venczel;;;;0;0;1;0
+id845;;cpalmer2020;Catherine Palmer;;;;0;0;0;0
+id846;;venkatraghavang;Venkat Raghavan G;;;;0;0;0;0
+id847;;danielpol;Daniel Pol;;;;0;0;0;0
+id848;;haridsv;Hari Krishna Dara;;;;0;0;0;0
+id849;;adi2;Andy Isaacson;;;;0;0;0;0
+id850;;bwtakacy;Takashi Ohnishi;;;;0;0;0;0
+id851;Raghu Angadi;rangadi;Raghu Angadi;Twitter;HDFS;-8;1;1;1;1
+id852;;billwarner;Bill Warner;;;;0;0;0;0
+id853;;esmanii;Esfandiar Manii;;;;0;0;0;0
+id854;;sorenmacbeth;Soren Macbeth;;;;0;0;0;0
+id855;;patrickwhite;Patrick White;;;;0;0;0;0
+id856;;peng.zhang;Peng Zhang;;;;0;0;0;0
+id857;;juliet;Juliet Hougland;;;;0;0;0;0
+id858;;rickcox;Rick Cox;;;;0;0;0;0
+id859;;tivv;Vitalii Tymchyshyn;;;;0;0;0;0
+id860;Roman Shaposhnik;rvs;Roman Shaposhnik;Pivotal;;8;0;1;0;1
+id861;;araceli;Araceli Henley;;;;0;0;0;0
+id862;;misty;M Linville;;;;0;0;0;0
+id863;;LarryLo;Larry Lo;;;;0;0;0;0
+id864;;crystal_gaoyu;Yu Gao;;;;0;0;0;0
+id865;;nishan;Nishan Shetty;;;;0;0;0;0
+id866;;ckoppelt;Christine Koppelt;;;;0;0;0;0
+id867;;heat23;Sudhir Prakash;;;;0;0;0;0
+id868;;crohling88;Christian Rohling;;;;0;0;0;0
+id869;;datskos;George Datskos;;;;0;0;0;0
+id870;;bbowman410;Benjamin Bowman;;;;0;0;0;0
+id871;;jimplush;Jim Plush;;;;0;0;0;0
+id872;;prasanth_j;Prasanth Jayachandran;;;;0;0;0;0
+id873;;Deng FEI;DENG FEI;;;;0;0;0;0
+id874;;pifta;István Fajth;;;;0;0;0;0
+id875;;dogacan;Dogacan Guney;;;;0;0;0;0
+id876;;jason98;Jason B;;;;0;0;0;0
+id877;Wei Yan;ywskycn;Wei Yan;;;;0;0;0;0
+id878;;satishsaley;Satish Saley;;;;0;0;0;0
+id879;;arshad.mohammad;Mohammad Arshad;;;;0;0;0;0
+id880;;adar;Adar Dembo;;;;0;0;0;0
+id881;;carlos.valiente;Carlos Valiente;;;;0;0;0;0
+id882;;cltlfcjin;Lantao Jin;;;;0;0;0;0
+id883;;thetaphi;Without name - 21;;;;0;0;0;0
+id884;Sandy Ryza, sanford ryza;sandyr;Sandy Ryza;;;;0;0;0;0
+id885;;jayaradha;Jayaradha;;;;0;0;0;0
+id886;;anhi;Andrew Hitchcock;;;;0;0;0;0
+id887;;wuchang1989;wuchang;;;;0;0;0;0
+id888;;mblo;Marcel B;;;;0;0;0;0
+id889;;jshrinivas;Shrinivas Joshi;;;;0;0;0;0
+id890;;kelwyj;Yanjun Wang;;;;0;0;0;0
+id891;;enzo69mc;Marc Colosimo;;;;0;0;0;0
+id892;;Jan Hentschel;Without name - 22;;;;0;0;0;0
+id893;;ggop;Gautam Gopalakrishnan;;;;0;0;0;0
+id894;;zhouyunfan;JackZhou;;;;0;0;0;0
+id895;Yiqun Lin;linyiqun;Yiqun Lin;;;;0;0;0;0
+id896;;pdah;Phan Dac Anh Huy;;;;0;0;0;0
+id897;Zheng Shao;zshao;Zheng Shao;Facebook;;-8;1;1;0;1
+id898;;miguno;Michael G. Noll;;;;0;0;0;0
+id899;;iveselovsky;Ivan A. Veselovsky;;;;0;0;0;0
+id900;;kawaa;Adam Kawa;;;;0;0;0;0
+id901;;qingwu.fu;qingwu.fu;;;;0;0;0;0
+id902;;hasonhai;Ha Son Hai;;;;0;0;0;0
+id903;;keyki;Krisztian Horvath;;;;0;0;0;0
+id904;;niranjan-wa;Niranjan Subramanian;;;;0;0;0;0
+id905;Xuan Gong, XUAN, XUANGong;xgong;Xuan Gong;Hortonworks;;-8;1;1;1;1
+id906;;rkannan82;Kannan Rajah;;;;0;0;0;0
+id907;Min Shen;mshen;Min Shen;;;;0;0;1;0
+id908;;lpuskas;Laszlo Puskas;;;;0;0;0;0
+id909;;iholsman;Ian Holsman;;;;0;0;0;0
+id910;;manojsamel;Manoj Samel;;;;0;0;0;0
+id911;;ian_jackson@trilliumsoftware.com;Ian Jackson;;;;0;0;0;0
+id912;;srikanth.sampath;Srikanth Sampath;;;;0;0;0;0
+id913;;menicosia;Marco Nicosia;;;;0;0;0;0
+id914;Boris Shkolnik;boryas;Boris Shkolnik;LinkedIn;;-8;0;1;1;1
+id915;;ashutoshc;Ashutosh Chauhan;;;;0;0;0;0
+id916;;schu;Stephen Chu;;;;0;0;0;0
+id917;;skeltoac;Andy Skelton;;;;0;0;0;0
+id918;;jrottinghuis;Joep Rottinghuis;;;;0;0;0;0
+id919;;PKRoma;Peter Klavins;;;;0;0;0;0
+id920;;Hari Matta;Hari Matta;;;;0;0;0;0
+id921;;shuzirra;Gergely Pollak;;;;0;0;0;0
+id922;;daijy;Daniel Dai;;;;0;0;0;0
+id923;;jukkaz;Jukka Zitting;;;;0;0;0;0
+id924;;dvergari;Davide  Vergari;;;;0;0;0;0
+id925;;cberner;Christopher Berner;;;;0;0;0;0
+id926;;figo;lufei;;;;0;0;0;0
+id927;;liangzhwa;liangzhaowang;;;;0;0;0;0
+id928;;bharathm;Bharath Mundlapudi;;;;0;0;0;0
+id929;;rusanu;Remus Rusanu;;;;0;0;0;0
+id930;;oss.wakayama;oss.wakayama;;;;0;0;0;0
+id931;;rajat.agarwal;Rajat Agarwal;;;;0;0;0;0
+id932;;jdere;Jason Dere;;;;0;0;0;0
+id933;;Tao Jie;Tao Jie;;;;0;0;0;0
+id934;;olgashen;Olga Shen;;;;0;0;0;0
+id935;;mohdshahidkhan;Mohammad Shahid Khan;;;;0;0;0;0
+id936;;striver.wang;wangzhiyuan;;;;0;0;0;0
+id937;Brandon Li;brandonli;Brandon Li;Hortonworks;;-8;1;1;1;1
+id938;;Cyl;Yeliang Cang;;;;0;0;0;0
+id939;;cb20777;Charles Butterfield;;;;0;0;0;0
+id940;Matthew Foley, mattf;mattf;Matthew Foley;Apple;HDFS;-8;1;1;1;1
+id941;;caiyicong;Yicong Cai;;;;0;0;0;0
+id942;;ashish singhi;Ashish Singhi;;;;0;0;0;0
+id943;;bent;Benjamin Tortorelli;;;;0;0;0;0
+id944;;gtzygtzy;qus-jiawei;;;;0;0;0;0
+id945;;tim_s;Tim Sell;;;;0;0;0;0
+id946;;guozhang;Guozhang Wang;;;;0;0;0;0
+id947;Dongming Liang;d9liang;Dongming Liang;;;;0;0;1;0
+id948;;singar.ranga;Ranga Swamy;;;;0;0;0;0
+id949;;nuggetwheat;Doug Judd;;;;0;0;0;0
+id950;;anithian;Amit Nithian;;;;0;0;0;0
+id951;;Koelli;Koelli Mungee;;;;0;0;0;0
+id952;;jwhitter;jwhitter;;;;0;0;0;0
+id953;;adamjshook;Adam J. Shook;;;;0;0;0;0
+id954;Kan Zhang;kzhang;Kan Zhang;IBM;;-8;0;1;0;1
+id955;;lagomorph;Dave Winters;;;;0;0;0;0
+id956;;kbjanssens;Kasper Janssens;;;;0;0;0;0
+id957;;rvernica;Rares Vernica;;;;0;0;0;0
+id958;;elizabetht;Elizabeth Thomas;;;;0;0;0;0
+id959;Haohui Mai;wheat9;Haohui Mai;Uber;;8;1;1;1;1
+id960;;smolnar;Sandor Molnar;;;;0;0;0;0
+id961;;aplee;aplee;;;;0;0;0;0
+id962;;jxiang;Jimmy Xiang;;;;0;0;0;0
+id963;;rajsaha;Rajit Saha;;;;0;0;0;0
+id964;;julienledem;Julien Le Dem;;;;0;0;0;0
+id965;;xingfengshen;XingFeng Shen;;;;0;0;0;0
+id966;;herberts;Mathias Herberts;;;;0;0;0;0
+id967;;gelesh;Gelesh;;;;0;0;0;0
+id968;;Rakesh_Shah;Rakesh Shah;;;;0;0;0;0
+id969;;jagadesh.kiran;Jagadesh Kiran N;;;;0;0;0;0
+id970;;gchanan;Gregory Chanan;;;;0;0;0;0
+id971;Mahadev Konar;mahadev;Mahadev Konar;Hortonworks;;-8;1;1;1;1
+id972;;schmidt_samuel;Samuel Otero Schmidt;;;;0;0;0;0
+id973;;sacharya;Suraj Acharya;;;;0;0;0;0
+id974;;kevincox;Kevin Cox;;;;0;0;0;0
+id975;;bpodgursky;Ben Podgursky;;;;0;0;0;0
+id976;Andrew Wang;andrew.wang;Andrew Wang;;;;0;0;0;0
+id977;;openinx;Zheng Hu;;;;0;0;0;0
+id978;;dougb;Doug Balog;;;;0;0;0;0
+id979;;joshrosen;Josh Rosen;;;;0;0;0;0
+id980;Amareshwari Sriramadasu, Amareshwari Sri Ramadasu;amareshwari;Amareshwari Sriramadasu;InMobi;;5,5;1;1;1;1
+id981;;pwendell@gmail.com;NO NAME;;;;0;0;0;0
+id982;Rakesh Radhakrishnan;rakeshr;Rakesh Radhakrishnan;Intel;;-8;0;1;1;1
+id983;;mnarayan;Manikandan Narayanaswamy;;;;0;0;0;0
+id984;;nonop92;arnaud p;;;;0;0;0;0
+id985;;zhouwei;Wei Zhou;;;;0;0;0;0
+id986;James Clampffer;James C;James Clampffer;;;;0;0;1;0
+id987;;kpalanisamy;Karthik Palanisamy;;;;0;0;0;0
+id988;;gwittel;Greg Wittel;;;;0;0;0;0
+id989;;udanax;Edward J. Yoon;;;;0;0;0;0
+id990;;mszurap;Miklos Szurap;;;;0;0;0;0
+id991;;thw;Thomas Weise;;;;0;0;0;0
+id992;;magnum;KWON BYUNGCHANG;;;;0;0;0;0
+id993;Colin Patrick McCabe, Colin McCabe;cmccabe;Colin McCabe;Cloudera;HDFS;-8;1;1;1;1
+id994;Tao Luo;taoluo;Tao Luo;;;;0;0;1;0
+id995;;leosun;sunlisheng;;;;0;0;0;0
+id996;;aplusplus;Without name - 23;;;;0;0;0;0
+id997;;bennies;Bennie Schut;;;;0;0;0;0
+id998;Shashikant Banerjee;shashikant;Shashikant Banerjee;Cloudera;;5,5;1;1;1;1
+id999;;asanjar;Amir F Sanjar;;;;0;0;0;0
+id1000;;yejun;Yejun Yang;;;;0;0;0;0
+id1001;;wuyuren;Yuren Wu;;;;0;0;0;0
+id1002;;klbostee;Klaas Bosteels;;;;0;0;0;0
+id1003;;ramgopalnaali;Ramgopal N;;;;0;0;0;0
+id1004;;sho.shimauchi;Sho Shimauchi;;;;0;0;0;0
+id1005;;mawenjin;WenJin Ma;;;;0;0;0;0
+id1006;;Dongtao Zhang;Dongtao Zhang;;;;0;0;0;0
+id1007;;nkollar;Nándor Kollár;;;;0;0;0;0
+id1008;;milindb;Milind Barve;;;;0;0;0;0
+id1009;;scoplin;Scott Coplin;;;;0;0;0;0
+id1010;;zhaoyunjiong;yunjiong zhao;;;;0;0;0;0
+id1011;;tannin;Sebastian;;;;0;0;0;0
+id1012;;sms;Santhosh Muthur Srinivasan;;;;0;0;0;0
+id1013;;ahmed.radwan;Ahmed Radwan;;;;0;0;0;0
+id1014;Walter Su;walter.k.su;Walter Su;;;;0;0;0;0
+id1015;;kannakar@microsoft.com;Kanna Karanam;;;;0;0;0;0
+id1016;;mding;MENG DING;;;;0;0;0;0
+id1017;;vivek.kumar;vivek kumar;;;;0;0;0;0
+id1018;;charlescearl;Charles Earl;;;;0;0;0;0
+id1019;;wuzang;Abandoned Account;;;;0;0;0;0
+id1020;;xieliang007;Liang Xie;;;;0;0;0;0
+id1021;;mikcsabee;Csaba Miklos;;;;0;0;0;0
+id1022;;xiegang112;Gang Xie;;;;0;0;0;0
+id1023;;martind;Martin Dittus;;;;0;0;0;0
+id1024;;yunqi;Yunqi Zhang;;;;0;0;0;0
+id1025;;sathish.gurram;sathish;;;;0;0;0;0
+id1026;;alexmc;Alexander Lachlan Mclintock;;;;0;0;0;0
+id1027;;surmountian;Xiao Liang;;;;0;0;0;0
+id1028;;stewi2;Stefan Will;;;;0;0;0;0
+id1029;;snoble;Steven Noble;;;;0;0;0;0
+id1030;;mithun;Mithun Radhakrishnan;;;;0;0;0;0
+id1031;Vrushali Channapattan, Vrushali C;vrushalic;Vrushali C;;;;0;0;0;0
+id1032;;oshevchenko;Oleksandr Shevchenko;;;;0;0;0;0
+id1033;Dhruba Borthakur;dhruba;Dhruba Borthakur;Facebook;;-8;1;1;0;1
+id1034;;project.linux.proj;project;;;;0;0;0;0
+id1035;;johnyoh;John Carrino;;;;0;0;0;0
+id1036;;spena;Sergio Peña;;;;0;0;0;0
+id1037;;lfurman;Leonid Furman;;;;0;0;0;0
+id1038;;ajsquared;Andrew Johnson;;;;0;0;0;0
+id1039;;j_caplan;Joshua Caplan;;;;0;0;0;0
+id1040;;april01;April01;;;;0;0;0;0
+id1041;;jolly;Jolly Chen;;;;0;0;0;0
+id1042;;lixinglong;lixinglong;;;;0;0;0;0
+id1043;;aderen;chunde;;;;0;0;0;0
+id1044;;daisuke.kobayashi;Daisuke Kobayashi;;;;0;0;0;0
+id1045;;rhc | rhc.openmpi@gmail.com;Ralph Castain;;;;0;0;0;0
+id1046;;ahvigil;Arthur Vigil;;;;0;0;0;0
+id1047;;wolfosis;Shoeb Sheyx;;;;0;0;0;0
+id1048;Rakesh Radhakrishnan, ;rakesh_techie;Rakesh;;;;0;0;0;0
+id1049;Michael Stack;stack;Michael Stack;Apple;HBase;-8;1;0;1;1
+id1050;Ravi Prakash;raviprak;Ravi Prakash;Altiscale, Inc.;;-8;0;1;1;1
+id1051;;joecrobak;Joe Crobak;;;;0;0;0;0
+id1052;;nemon;Nemon Lou;;;;0;0;0;0
+id1053;;hex108;Jun Gong;;;;0;0;0;0
+id1054;;chingshen;Ching-Shen Chen;;;;0;0;0;0
+id1055;;nourl;Jingui Li;;;;0;0;0;0
+id1056;;xupener;xupeng;;;;0;0;0;0
+id1057;;Thomas Demoor | thodemoor;Thomas Demoor;;;;0;0;0;0
+id1058;Jakob Homan;jghoman;Jakob Homan;LinkedIn;;-8;1;1;1;1
+id1059;Carlo Curino;curino;Carlo Curino;Microsoft;;-8;0;1;1;1
+id1060;;jonathan.lawlor;Jonathan Lawlor;;;;0;0;0;0
+id1061;;xukun;xukun;;;;0;0;0;0
+id1062;;fpj;Flavio Paiva Junqueira;;;;0;0;0;0
+id1063;;gunawi;Haryadi Gunawi;;;;0;0;0;0
+id1064;;HCOONa;Shuai Zhang;;;;0;0;0;0
+id1065;;kartha;Rajesh Kartha;;;;0;0;0;0
+id1066;;fjk;Kazuho Fujii;;;;0;0;0;0
+id1067;;benlau;Ben Lau;;;;0;0;0;0
+id1068;;dyuan3;Ding Yuan;;;;0;0;0;0
+id1069;;sumanshg;Suman Sehgal;;;;0;0;0;0
+id1070;;dbeech;Dave Beech;;;;0;0;0;0
+id1071;;miradu-msft;Miodrag Radulovic;;;;0;0;0;0
+id1072;;BilwaST;Bilwa S T;;;;0;0;0;0
+id1073;;chtyim;Terence Yim;;;;0;0;0;0
+id1074;;SaschaC;Sascha Coenen;;;;0;0;0;0
+id1075;;rdsr;Ratandeep Ratti;;;;0;0;0;0
+id1076;;bleuleon;Frank Nguyen;;;;0;0;0;0
+id1077;;tony.peng;Tony Peng;;;;0;0;0;0
+id1078;;zaozaowang;toughman;;;;0;0;0;0
+id1079;;sshobham;Shobham Kumar;;;;0;0;0;0
+id1080;;anthonyr;Anthony Rojas;;;;0;0;0;0
+id1081;;robsparker;Robert Parker;;;;0;0;0;0
+id1082;;sunrise76;Ravindra Babu;;;;0;0;0;0
+id1083;;yxls123123;Xu Yang;;;;0;0;0;0
+id1084;;santhoshbg;Santhosh B Gowda;;;;0;0;0;0
+id1085;;k0da;Dinar Valeev;;;;0;0;0;0
+id1086;;sriramsrao;Sriram Rao;;;;0;0;0;0
+id1087;;trtrmitya;Dmitry Sivachenko;;;;0;0;0;0
+id1088;;cotedm;Dustin Cote;;;;0;0;0;0
+id1089;;vigith;Vigith Maurice;;;;0;0;0;0
+id1090;;zhenxiao;Zhenxiao Luo;;;;0;0;0;0
+id1091;;jamestaylor;James R. Taylor;;;;0;0;0;0
+id1092;;Karthik Palaniappan;Karthik Palaniappan;;;;0;0;0;0
+id1093;;Sushil-K-S;Sushil Ks;;;;0;0;0;0
+id1094;;roji;Shay Rojansky;;;;0;0;0;0
+id1095;;liushaohui;Shaohui Liu;;;;0;0;0;0
+id1096;;phoenix13;Sergey Murylev;;;;0;0;0;0
+id1097;;rnpridgeon;Ryan Pridgeon;;;;0;0;0;0
+id1098;;vasco;Vasco;;;;0;0;0;0
+id1099;;lianhuiwang;Lianhui Wang;;;;0;0;0;0
+id1100;;imstefanlee;stefanlee;;;;0;0;0;0
+id1101;Doug Cutting;cutting;Doug Cutting;Cloudera;;-8;1;1;1;1
+id1102;;dvillegas;David Villegas;;;;0;0;0;0
+id1103;;jayunit100;jay vyas;;;;0;0;0;0
+id1104;;kali;Mathieu Poumeyrol;;;;0;0;0;0
+id1105;;call-fold;Lingfeng Su;;;;0;0;0;0
+id1106;;sailesh;Sailesh Mukil;;;;0;0;0;0
+id1107;;gerson23;Gerson Carlos;;;;0;0;0;0
+id1108;;ivan.bella;Ivan Bella;;;;0;0;0;0
+id1109;;bmahe;Bruno Mahé;;;;0;0;0;0
+id1110;;dawson.choong;Dawson Choong;;;;0;0;0;0
+id1111;;philip;Philip Martin;;;;0;0;0;0
+id1112;;sebb@apache.org;Without name - 24;;;;0;0;0;0
+id1113;;yanboliang;Yanbo Liang;;;;0;0;0;0
+id1114;Arpit Agarwal, arp;arpitagarwal;Without name - 25;;;;0;0;0;0
+id1115;;tarunparimi;Tarun Parimi;;;;0;0;0;0
+id1116;;giladwolff;Gilad Wolff;;;;0;0;0;0
+id1117;Arpit Gupta;arpitgupta;Arpit Gupta;;;;0;0;0;0
+id1118;;stakiar;Sahil Takiar;;;;0;0;0;0
+id1119;;keller-jason;Jason Keller;;;;0;0;0;0
+id1120;;wzc1989;Zhichun Wu;;;;0;0;0;0
+id1121;;bbeaudreault;Bryan Beaudreault;;;;0;0;0;0
+id1122;;hadoopqa;Hadoop QA;;;;0;0;0;0
+id1123;;avikram;Ananth Vikram Bommireddipalli;;;;0;0;0;0
+id1124;;wchevreuil;Wellington Chevreuil;;;;0;0;0;0
+id1125;;szita;Ádám Szita;;;;0;0;0;0
+id1126;;ameks94;Oleksii Dymytrov;;;;0;0;0;0
+id1127;;xumingming;James Xu;;;;0;0;0;0
+id1128;;kentaro;matsusaka kentaro;;;;0;0;0;0
+id1129;;shanyu;shanyu zhao;;;;0;0;0;0
+id1130;;david_syer;Dave Syer;;;;0;0;0;0
+id1131;;wypoon;Wing Yew Poon;;;;0;0;0;0
+id1132;;mustaqeem;Mohammad Mustaqeem;;;;0;0;0;0
+id1133;;henry.wang;Henry Wang;;;;0;0;0;0
+id1134;;lu;lu cheng;;;;0;0;0;0
+id1135;;gouravk;Gaurav Kanade;;;;0;0;0;0
+id1136;;ben.roling;Ben Roling;;;;0;0;0;0
+id1137;;esteban;Esteban Gutierrez;;;;0;0;0;0
+id1138;;jbooth;Jay Booth;;;;0;0;0;0
+id1139;;xiaoyuyao;Nathan Yao;;;;0;0;0;0
+id1140;;ruseel;MunShik JOUNG;;;;0;0;0;0
+id1141;;amitsela;Amit Sela;;;;0;0;0;0
+id1142;;bdechoux;Bertrand Dechoux;;;;0;0;0;0
+id1143;;dagit;Derek Dagit;;;;0;0;0;0
+id1144;;liangly;Liyin Liang;;;;0;0;0;0
+id1145;;jtufo;Jason Tufo;;;;0;0;0;0
+id1146;;pauly;Paul Yang;;;;0;0;0;0
+id1147;;sinofool;Bochun Bai;;;;0;0;0;0
+id1148;;kamboj;Ankit Kamboj;;;;0;0;0;0
+id1149;;ewenpower;liaowenrui;;;;0;0;0;0
+id1150;;ruikubo;Rui KUBO;;;;0;0;0;0
+id1151;;ryu_kobayashi;Ryu Kobayashi;;;;0;0;0;0
+id1152;;bzheng;Bing Zheng;;;;0;0;0;0
+id1153;;vitthal_gogate;vitthal (Suhas) Gogate;;;;0;0;0;0
+id1154;Dinesh Chitlangia;dineshchitlangia;Dinesh Chitlangia;;;;0;0;0;0
+id1155;;erickerickson;Erick Erickson;;;;0;0;0;0
+id1156;;stevearm;Steve Armstrong;;;;0;0;0;0
+id1157;;snayakm;Suraj Nayak;;;;0;0;0;0
+id1158;;linzhangbing;ZhangBing Lin;;;;0;0;0;0
+id1159;Jian He;jianhe;Jian He;Hortonworks;;-8;1;1;1;1
+id1160;;trex58;Tony Reix;;;;0;0;0;0
+id1161;Sunil Govindan, Sunil G;sunilg;Sunil G;Cloudera;;-8;1;1;1;1
+id1162;;rohini;Rohini Palaniswamy;;;;0;0;0;0
+id1163;;dsw;David S. Wang;;;;0;0;0;0
+id1164;;yiran;Yiran Wu;;;;0;0;0;0
+id1165;;karims;Karim Saadah;;;;0;0;0;0
+id1166;;leibnitz;JH Lin;;;;0;0;0;0
+id1167;;rrati_oss;Robert Rati;;;;0;0;0;0
+id1168;Íñigo Goiri, Inigo Goiri;elgoiri;Íñigo Goiri;;;;0;0;0;0
+id1169;;till.schaefer;Till Schäfer;;;;0;0;0;0
+id1170;;yingdachen;Yingda Chen;;;;0;0;0;0
+id1171;;hong.tang;Hong Tang;;;;0;0;0;0
+id1172;;gliptak;Gabor Liptak;;;;0;0;0;0
+id1173;;laureny;Lauren Yang;;;;0;0;0;0
+id1174;;zhong;Zhong Wang;;;;0;0;0;0
+id1175;;nongli;Nong Li;;;;0;0;0;0
+id1176;;kumarr;Kumar Ravi;;;;0;0;0;0
+id1177;;tnachen;Timothy Chen;;;;0;0;0;0
+id1178;Junping Du;jdu;Junping Du;;;;0;0;0;0
+id1179;;pganelin;Pavel Ganelin;;;;0;0;0;0
+id1180;;NeoMatrix;rangjiaheng;;;;0;0;0;0
+id1181;;simpatico;Gabriele Kahlout;;;;0;0;0;0
+id1182;;brocknoland;Brock Noland;;;;0;0;0;0
+id1183;;scott_carey;Scott Carey;;;;0;0;0;0
+id1184;;matt.motter@cerner.com;Matt Motter;;;;0;0;0;0
+id1185;;philippsch;Philipp Schuegerl;;;;0;0;0;0
+id1186;;viper799;Billy Pearson;;;;0;0;0;0
+id1187;;Mahens;Mahens;;;;0;0;0;0
+id1188;;bograd;Bogdan Raducanu;;;;0;0;0;0
+id1189;Konstantin Shvachko, Konstantin V Shvachko;shv;Konstantin Shvachko;LinkedIn;HDFS;-8;1;1;1;1
+id1190;;eric@apache.org;Eric Charles;;;;0;0;0;0
+id1191;;shun0102;Shunsuke Mikami;;;;0;0;0;0
+id1192;;bd17kaka;bd17kaka;;;;0;0;0;0
+id1193;;Yasen Liu;Yasen Liu;;;;0;0;0;0
+id1194;;jojochuang;Without name - 26;;;;0;0;0;0
+id1195;;10210240089@fudan.edu.cn;gongsuochen;;;;0;0;0;0
+id1196;Chen Liang;vagarychen;Chen Liang;;;;0;0;0;0
+id1197;;jaimin;Jaimin Jetly;;;;0;0;0;0
+id1198;;sumit.nigam;Sumit Nigam;;;;0;0;0;0
+id1199;Sangjin Lee;sjlee0;Sangjin Lee;;;;0;0;0;0
+id1200;Suresh Srinivas;sureshms;Suresh Srinivas;;;;0;0;0;0
+id1201;;dwollen;Derek Wollenstein;;;;0;0;0;0
+id1202;;grepas;Gergo Repas;;;;0;0;0;0
+id1203;;Grigory Turunov;Grigory Turunov;;;;0;0;0;0
+id1204;;phatak.dev;madhukara phatak;;;;0;0;0;0
+id1205;Gergely Novák;GergelyNovak;Gergely Novák;;;;0;0;1;0
+id1206;;vitalii;Vitalii Diravka;;;;0;0;0;0
+id1207;;anthonyu;Anthony Urso;;;;0;0;0;0
+id1208;;minjikim;MinJi Kim;;;;0;0;0;0
+id1209;;jeffreyr97;Jeffrey E  Rodriguez;;;;0;0;0;0
+id1210;;lskuff;Lenni Kuff;;;;0;0;0;0
+id1211;;Sreenath;Sreenath Somarajapuram;;;;0;0;0;0
+id1212;;hsaputra;Henry Saputra;;;;0;0;0;0
+id1213;;tfriedr;Thomas Friedrich;;;;0;0;0;0
+id1214;Eric Yang;eyang;Eric Yang;IBM;;-8;0;1;1;1
+id1215;;ggoodson;Garth Goodson;;;;0;0;0;0
+id1216;;jonBoone;Jon Boone;;;;0;0;0;0
+id1217;;yqwang;Yuqi Wang;;;;0;0;0;0
+id1218;;kohsuke;Kohsuke Kawaguchi;;;;0;0;0;0
+id1219;;epollan;Evan Pollan;;;;0;0;0;0
+id1220;;kanaka;Kanaka Kumar Avvaru;;;;0;0;0;0
+id1221;;ndouba;Nadeem Douba;;;;0;0;0;0
+id1222;;chico916;Andres Cuellar;;;;0;0;0;0
+id1223;;catap;Kirill A. Korinskiy;;;;0;0;0;0
+id1224;;jarcec;Jarek Jarcec Cecho;;;;0;0;0;0
+id1225;;jdcryans;Jean-Daniel Cryans;;;;0;0;0;0
+id1226;;ethanli;Ethan Li;;;;0;0;0;0
+id1227;;bliu@bobliu.com;Bob Liu;;;;0;0;0;0
+id1228;;tellisnz;Tom Ellis;;;;0;0;0;0
+id1229;Lokesh Jain;ljain;Lokesh Jain;Cloudera;;5,5;1;1;1;1
+id1230;;charlenehelios;Charlene Sun;;;;0;0;0;0
+id1231;Konstantin Boudnik;cos;Konstantin I Boudnik;WANdisco;;-8;0;1;1;1
+id1232;;visualage;Qi Liu;;;;0;0;0;0
+id1233;;Pradeep.Nayak@netapp.com;UdupiKadbet, PradeepNayak;;;;0;0;0;0
+id1234;;jalospinoso;Josh Lospinoso;;;;0;0;0;0
+id1235;Andrey Dyatlov;dyatlov;Andrey Dyatlov;;;;0;0;1;0
+id1236;;bahchis;Sergey Bahchissaraitsev;;;;0;0;0;0
+id1237;;appodictic;Edward Capriolo;;;;0;0;0;0
+id1238;;jiangyu1211;jiangyu;;;;0;0;0;0
+id1239;;amogh;Amogh Vasekar;;;;0;0;0;0
+id1240;Sen Zhao;Sen Zhao;Sen Zhao;;;;0;0;1;0
+id1241;;abhishekrai;Abhishek Rai;;;;0;0;0;0
+id1242;;h455m0;Bern Hassmo;;;;0;0;0;0
+id1243;;azaroth;Gianmarco De Francisci Morales;;;;0;0;0;0
+id1244;;sershe;Sergey Shelukhin;;;;0;0;0;0
+id1245;;jyu@cloudera.com;Juan Yu;;;;0;0;0;0
+id1246;;airbots;Chen He;;;;0;0;0;0
+id1247;;inza9hi;inza9hi;;;;0;0;0;0
+id1248;;Pooja.Gupta;Pooja Gupta;;;;0;0;0;0
+id1249;;dadkins;Dan Adkins;;;;0;0;0;0
+id1250;;allanyan;Allan Yan;;;;0;0;0;0
+id1251;;adityaacharya;Aditya Acharya;;;;0;0;0;0
+id1252;;christinavu25;Christina Vu;;;;0;0;0;0
+id1253;;kelvinchu;Kelvin Chu;;;;0;0;0;0
+id1254;;chelin;Charlie Helin;;;;0;0;0;0
+id1255;;rosieli;Rosie Li;;;;0;0;0;0
+id1256;;aoe;AOE Takashi;;;;0;0;0;0
+id1257;;lars_francke;Without name - 27;;;;0;0;0;0
+id1258;;liusheng;Sheng Liu;;;;0;0;0;0
+id1259;;shinochika9861@gmail.com;Shinochika9861;;;;0;0;0;0
+id1260;;liuyang@huawei;liuyang;;;;0;0;0;0
+id1261;;sijing0410;Zhang Wei;;;;0;0;0;0
+id1262;;gehlers;Gerald L. Ehlers II;;;;0;0;0;0
+id1263;;eclark;Elliott Neil Clark;;;;0;0;0;0
+id1264;;mavinmartin@gmail.com;Mavin Martin;;;;0;0;0;0
+id1265;;akramer;Adam Kramer;;;;0;0;0;0
+id1266;;peruguusha;usharani;;;;0;0;0;0
+id1267;;mbookman;Matt Bookman;;;;0;0;0;0
+id1268;;abhijit.shingate;Abhijit Suresh Shingate;;;;0;0;0;0
+id1269;;wutong;Knight Wu;;;;0;0;0;0
+id1270;;andronat;Anastasis Andronidis;;;;0;0;0;0
+id1271;Zhijie Shen;zjshen;Zhijie Shen;Hortonworks;;-8;1;1;1;1
+id1272;;shuisheng;shuisheng wei;;;;0;0;0;0
+id1273;;paulhan;Paul Han;;;;0;0;0;0
+id1274;;tim.luo;Tim Luo;;;;0;0;0;0
+id1275;;ahadr;Ahad Rana;;;;0;0;0;0
+id1276;;hammer;Jeff Hammerbacher;;;;0;0;0;0
+id1277;;avdhesh088;Avdhesh kumar;;;;0;0;0;0
+id1278;;ie255001;Irina Easterling;;;;0;0;0;0
+id1279;;gabriel.reid;Gabriel Reid;;;;0;0;0;0
+id1280;;ilyam;Ilya Maykov;;;;0;0;0;0
+id1281;;scott4man;Scott Forman;;;;0;0;0;0
+id1282;;snihalani;Surenkumar Nihalani;;;;0;0;0;0
+id1283;;claudef;Claude Falbriard;;;;0;0;0;0
+id1284;;sherri_chen;Sherry Chen;;;;0;0;0;0
+id1285;;mark.fuhs;Mark Fuhs;;;;0;0;0;0
+id1286;;ecaspole;Eric Caspole;;;;0;0;0;0
+id1287;;rikeppb100;Henrique Barros;;;;0;0;0;0
+id1288;;svenkat;Venkatesh Seetharam;;;;0;0;0;0
+id1289;;abondar;Alexander Bondar;;;;0;0;0;0
+id1290;;Tagar;Ruslan Dautkhanov;;;;0;0;0;0
+id1291;;kamrul;Mohammad Islam;;;;0;0;0;0
+id1292;Prabhu Joseph;Prabhu Joseph;Without name - 28;;;;0;0;0;0
+id1293;;xilan-rabbit;Xiaohe Lan;;;;0;0;0;0
+id1294;;rsasson;Ryan Sasson;;;;0;0;0;0
+id1295;;keegan;Keegan Witt;;;;0;0;0;0
+id1296;;jly;Jingkei Ly;;;;0;0;0;0
+id1297;;zhangchen;Chen Zhang;;;;0;0;0;0
+id1298;;Byron Wong;Byron Wong;;;;0;0;0;0
+id1299;;jongyoul;Jongyoul Lee;;;;0;0;0;0
+id1300;;yogeshjha;Yogesh Kumar Jha;;;;0;0;0;0
+id1301;;cwinkler;Christian Winkler;;;;0;0;0;0
+id1302;;mnikhil;Nikhil Mulley;;;;0;0;0;0
+id1303;;dleshem;Danny Leshem;;;;0;0;0;0
+id1304;;harinder07;Subham Mittal;;;;0;0;0;0
+id1305;;pvary;Peter Vary;;;;0;0;0;0
+id1306;;ngangam;Naveen Gangam;;;;0;0;0;0
+id1307;;bleeapache;Bilung Lee;;;;0;0;0;0
+id1308;;trjianjianjiao;Rong Tang;;;;0;0;0;0
+id1309;;free_mi;Without name - 29;;;;0;0;0;0
+id1310;;babakbehzad;Babak Behzad;;;;0;0;0;0
+id1311;;zhangyongjiang;Cheng;;;;0;0;0;0
+id1312;Yufei Gu, yufei;yufeigu;Yufei Gu;;;;0;0;0;0
+id1313;;ariforu;Arijit Banerjee;;;;0;0;0;0
+id1314;;thinktaocs;Tao Zhang;;;;0;0;0;0
+id1315;;Huachao;luhuachao;;;;0;0;0;0
+id1316;;r7raul;JiJun Tang;;;;0;0;0;0
+id1317;Takanobu Asanuma;tasanuma0829;Without name - 30;;;;0;0;0;0
+id1318;;jdonofrio;Jim Donofrio;;;;0;0;0;0
+id1319;;chunjun.xiao;Chunjun Xiao;;;;0;0;0;0
+id1320;Tao Yang;Tao Yang;Tao Yang;;;;0;0;0;0
+id1321;;dazz990;Darren Hart;;;;0;0;0;0
+id1322;Xiaoyu Yao;xyao;Xiaoyu Yao;Hortonworks;;-8;1;1;0;1
+id1323;;photogamerun;photogamerun;;;;0;0;0;0
+id1324;;joeferner;Joe Ferner;;;;0;0;0;0
+id1325;;cwsteinbach;Carl Steinbach;;;;0;0;0;0
+id1326;;xiaoheipangzi;lujie;;;;0;0;0;0
+id1327;;flly;François Le Lay;;;;0;0;0;0
+id1328;;kevinweil;Kevin Weil;;;;0;0;0;0
+id1329;;cdhaigh;Doug Haigh;;;;0;0;0;0
+id1330;Yongjun Zhang;yzhangal;Yongjun Zhang;;;;0;0;0;0
+id1331;;suja;suja s;;;;0;0;0;0
+id1332;;abridgett;Adrian Bridgett;;;;0;0;0;0
+id1333;;rbuckley;Ron Buckley;;;;0;0;0;0
+id1334;;tscurtu;Tudor Scurtu;;;;0;0;0;0
+id1335;;jj336013;yimeng;;;;0;0;0;0
+id1336;;erik.fang;Erik.fang;;;;0;0;0;0
+id1337;;mbm;Matthew Byng-Maddick;;;;0;0;0;0
+id1338;Andrew Purtell;apurtell;Andrew Kyle Purtell;;;;0;0;1;0
+id1339;;dedcode;Djellel Eddine Difallah;;;;0;0;0;0
+id1340;;roelofs;Greg Roelofs;;;;0;0;0;0
+id1341;;dcapwell;David Capwell;;;;0;0;0;0
+id1342;;edwardspc;edward pacheco;;;;0;0;0;0
+id1343;Kai Zheng, drankye;drankye;Kai Zheng;Intel;;8;0;1;1;1
+id1344;;zhongyi-altiscale;Zhongyi Xie;;;;0;0;0;0
+id1345;;max_datapath;Max Schmidt;;;;0;0;0;0
+id1346;;prongs;Rajat Khandelwal;;;;0;0;0;0
+id1347;;wisgood;Xiaowei Wang;;;;0;0;0;0
+id1348;;jinkorea1;Jinho Lee;;;;0;0;0;0
+id1349;Chris Douglas, Christopher Douglas;chris.douglas;Without name - 31;;;;0;0;1;0
+id1350;;dlmarion;Dave Marion;;;;0;0;0;0
+id1351;;shivram;Shivram Mani;;;;0;0;0;0
+id1352;;raviteja;Ravi Teja Ch N V;;;;0;0;0;0
+id1353;;chobrian;Brian Cho;;;;0;0;0;0
+id1354;;lqjack;lqjack;;;;0;0;0;0
+id1355;;octchristmas;cho ju il;;;;0;0;0;0
+id1356;;Tatyana But;Tatyana But;;;;0;0;0;0
+id1357;;wjensen;Wade Jensen;;;;0;0;0;0
+id1358;;vishalrajan;Vishal Rajan;;;;0;0;0;0
+id1359;;markrmiller@gmail.com;Mark Miller;;;;0;0;0;0
+id1360;;ziqian hu;Hu Ziqian;;;;0;0;0;0
+id1361;;romainr;Romain Rigaux;;;;0;0;0;0
+id1362;;yetanothercoder;Mikhail Baturov;;;;0;0;0;0
+id1363;;ekoifman;Eugene Koifman;;;;0;0;0;0
+id1364;;Sandeep Nemuri;Sandeep Nemuri;;;;0;0;0;0
+id1365;;shwethags;Shwetha GS;;;;0;0;0;0
+id1366;;benedict jin;Benedict Jin;;;;0;0;0;0
+id1367;;irogers;Ian Rogers;;;;0;0;0;0
+id1368;;pocheung;Po Cheung;;;;0;0;0;0
+id1369;;octo47;Andrey Stepachev;;;;0;0;0;0
+id1370;Giridharan Kesavan, ;mgiri935;Giri;;;;0;0;0;0
+id1371;;nkeywal;Nicolas Liochon;;;;0;0;0;0
+id1372;;peter.romianowski;Peter Romianowski;;;;0;0;0;0
+id1373;;fly_in_gis;Yang Wang;;;;0;0;0;0
+id1374;;ckulkarni;Chinmay Kulkarni;;;;0;0;0;0
+id1375;;ripon;Ripon Patgiri;;;;0;0;0;0
+id1376;;h0tbird;Marc Villacorta;;;;0;0;0;0
+id1377;;yamaguchimsf;Masahiro Yamaguchi;;;;0;0;0;0
+id1378;;pirroh;Michele Catasta;;;;0;0;0;0
+id1379;;sohu0011;Aaron,;;;;0;0;0;0
+id1380;Zac Zhou;yuan_zac;Zac Zhou;;;;0;0;0;0
+id1381;;Aguinore;Alex Iakovlev;;;;0;0;0;0
+id1382;;jackie.chang;Jackie Chang;;;;0;0;0;0
+id1383;;yangzhe1991;Phil Yang;;;;0;0;0;0
+id1384;;saruntek;sarun singla;;;;0;0;0;0
+id1385;;achirita_amdocs;Andi Chirita Amdocs;;;;0;0;0;0
+id1386;;ivan.prado;Iván de Prado;;;;0;0;0;0
+id1387;;hg;Hanifi Gunes;;;;0;0;0;0
+id1388;;elserj;Josh Elser;;;;0;0;0;0
+id1389;;thatwasluxury;Dominic Dunlop;;;;0;0;0;0
+id1390;;lianggz;Gao Zhong Liang;;;;0;0;0;0
+id1391;;tartarus;tartarus;;;;0;0;0;0
+id1392;;ktomasette;Kristofer Tomasette;;;;0;0;0;0
+id1393;;amalakar;Arup Malakar;;;;0;0;0;0
+id1394;;stanislav.antic@gmail.com;Stanislav Antic;;;;0;0;0;0
+id1395;;ramach;Krishna Ramachandran;;;;0;0;0;0
+id1396;Siyao Meng;smeng;Siyao Meng;;;;0;0;0;0
+id1397;;jogeudai;Uday;;;;0;0;0;0
+id1398;;poliva;pascal oliva;;;;0;0;0;0
+id1399;;cindyli_2012 | cindy2012;Cindy Li;;;;0;0;0;0
+id1400;;reidchan;Reid Chan;;;;0;0;0;0
+id1401;;dionusos;Dénes Bodó;;;;0;0;0;0
+id1402;;ajithshetty;Ajith S;;;;0;0;0;0
+id1403;;davidjou;David Jou;;;;0;0;0;0
+id1404;;nickkanellos;Nick Kanellos;;;;0;0;0;0
+id1405;Botong Huang;botong;Botong Huang;Alibaba;;-8;0;1;0;1
+id1406;;praveenkjvs;Praveen Kumar K J V S;;;;0;0;0;0
+id1407;;clehene;Cosmin Lehene;;;;0;0;0;0
+id1408;;wouterdebie;Wouter de Bie;;;;0;0;0;0
+id1409;;lachisis;lachisis;;;;0;0;0;0
+id1410;;JonathanMace;Jonathan Mace;;;;0;0;0;0
+id1411;Jing Zhao;jingzhao;Jing Zhao;;;;0;0;0;0
+id1412;;davidluo;David Luo;;;;0;0;0;0
+id1413;;buddytaylor0 | Buddy.Taylor@netapp.com;Taylor, Buddy;;;;0;0;0;0
+id1414;;pvoss;Peter Voss;;;;0;0;0;0
+id1415;;rmetzger;Robert Metzger;;;;0;0;0;0
+id1416;Thomas Graves, tgraves;tgraves;Thomas Graves;Nvidia;;-8;1;1;1;1
+id1417;;victornee;Victor Nee;;;;0;0;0;0
+id1418;;aarongreenhouse;Aaron Greenhouse;;;;0;0;0;0
+id1419;;andreina;J.Andreina;;;;0;0;0;0
+id1420;;bluelu;Thibaut;;;;0;0;0;0
+id1421;;genman;Elias Ross;;;;0;0;0;0
+id1422;;spackler;Eric Abbott;;;;0;0;0;0
+id1423;;rpalamut;Rahul Palamuttam;;;;0;0;0;0
+id1424;;avnerb;Avner BenHanoch;;;;0;0;0;0
+id1425;;WangZhiqiang;Wang Zhiqiang;;;;0;0;0;0
+id1426;;zhangrunlin;Franklin;;;;0;0;0;0
+id1427;;oliverhuhuhu@gmail.com;Keqiu Hu;;;;0;0;0;0
+id1428;;xafero;Georg Berendt;;;;0;0;0;0
+id1429;;joa23;Stefan Groschupf;;;;0;0;0;0
+id1430;Sreekanth Ramakrishnan;sreekanth;Sreekanth Ramakrishnan;InMobi;;-8;0;1;0;1
+id1431;;hhuang2014;Huan Huang;;;;0;0;0;0
+id1432;;pj.fanning;PJ Fanning;;;;0;0;0;0
+id1433;;mwagner;Mark Wagner;;;;0;0;0;0
+id1434;;hzlu;Huizhi Lu;;;;0;0;0;0
+id1435;Hairong Kuang;hairong;Hairong Kuang;Facebook;HDFS;-8;1;1;1;1
+id1436;;doris;Doris Gu;;;;0;0;0;0
+id1437;;miomir;Miomir Boljanovic;;;;0;0;0;0
+id1438;;vishu231191@gmail.com;Vishal;;;;0;0;0;0
+id1439;Aaron Fabbri;fabbri;Aaron Fabbri;;;;0;0;1;0
+id1440;;tstclair;Timothy St. Clair;;;;0;0;0;0
+id1441;;ningli;Ning Li;;;;0;0;0;0
+id1442;;chrilisf;Chris Li;;;;0;0;0;0
+id1443;;laurentgo;Without name - 32;;;;0;0;0;0
+id1444;;nravi;Nishkam Ravi;;;;0;0;0;0
+id1445;;cconner;Christopher Conner;;;;0;0;0;0
+id1446;;jameeln;Jameel Naina Mohamed;;;;0;0;0;0
+id1447;;study;Yuen-Kuei Hsueh;;;;0;0;0;0
+id1448;;vganji;Sai Ganji;;;;0;0;0;0
+id1449;;drizzt321;Aaron Baff;;;;0;0;0;0
+id1450;;jxchen;Jane Chen;;;;0;0;0;0
+id1451;;crh;CR Hota;;;;0;0;0;0
+id1452;;kthrapp;Kendall Thrapp;;;;0;0;0;0
+id1453;;roniburd;Roni Burd;;;;0;0;0;0
+id1454;;rdub;Ryan Williams;;;;0;0;0;0
+id1455;;laszlok;Laszlo Kollar;;;;0;0;0;0
+id1456;;rezaf_2000;Reza Farivar;;;;0;0;0;0
+id1457;;fatkun;fatkun;;;;0;0;0;0
+id1458;;reznor;Varun Kapoor;;;;0;0;0;0
+id1459;;gopalv;Gopal Vijayaraghavan;;;;0;0;0;0
+id1460;Konstantinos Karanasos;kkaranasos;Konstantinos Karanasos;Microsoft;;-8;1;1;1;1
+id1461;;anakrasteva;Ana Krasteva;;;;0;0;0;0
+id1462;;prabushankar.c;Prabushankar Chinnasamy;;;;0;0;0;0
+id1463;Thomas Marquardt;tmarquardt;Thomas Marqardt;;;;0;0;1;0
+id1464;;mwinkels;Maarten Winkels;;;;0;0;0;0
+id1465;;pjha;Prashant Jha;;;;0;0;0;0
+id1466;;pwendell;Patrick Wendell;;;;0;0;0;0
+id1467;;konnew88;Konstantin Weitz;;;;0;0;0;0
+id1468;fang zhenyi, ;Fan04290;Fan;;;;0;0;1;0
+id1469;;jhsenjaliya;Jay Sen;;;;0;0;0;0
+id1470;;slider;Steven K. Wong;;;;0;0;0;0
+id1471;;uranus;Zhaohui Xin;;;;0;0;0;0
+id1472;;davevr;Dave Vronay;;;;0;0;0;0
+id1473;;vclinton;Vaughn E. Clinton;;;;0;0;0;0
+id1474;;dongtalk@gmail.com;Yajun Dong;;;;0;0;0;0
+id1475;;meria;Meria Joseph;;;;0;0;0;0
+id1476;;jacsparrow;SreeHari;;;;0;0;0;0
+id1477;;haitao-tony;sunhaitao;;;;0;0;0;0
+id1478;;naren.koneru;Naren Koneru;;;;0;0;0;0
+id1479;;LiJinglun;Jinglun;;;;0;0;0;0
+id1480;;tangshangwen;Shangwen Tang;;;;0;0;0;0
+id1481;;ASikaria;Atul Sikaria;;;;0;0;0;0
+id1482;;lindongdong;lindongdong;;;;0;0;0;0
+id1483;;castagna;Paolo Castagna;;;;0;0;0;0
+id1484;;HuafengWang;Huafeng Wang;;;;0;0;0;0
+id1485;;pbacsko;Peter Bacsko;;;;0;0;0;0
+id1486;;raviphulari;Ravi Phulari;;;;0;0;0;0
+id1487;Sidharta Seethana, sidharta s;sidharta-s;Sidharta Seethana;;;;0;0;0;0
+id1488;;whangsf;Andrew Whang;;;;0;0;0;0
+id1489;;gnawux;Wang Xu;;;;0;0;0;0
+id1490;;jserdaru;Julien Serdaru;;;;0;0;0;0
+id1491;;ashahab;Abin Shahab;;;;0;0;0;0
+id1492;;benwing;Ben Wing;;;;0;0;0;0
+id1493;;edward.xiao;edward.xiao;;;;0;0;0;0
+id1494;;d0ngw;Dongyong Wang;;;;0;0;0;0
+id1495;;liuhongtong;liuhongtong;;;;0;0;0;0
+id1496;;oae;Johannes Zillmann;;;;0;0;0;0
+id1497;;rahulsinghal.iitd;Rahul Singhal;;;;0;0;0;0
+id1498;Mingliang Liu;liuml07;Mingliang Liu;Salesforce;HDFS;-8;1;1;1;1
+id1499;;Vandana7;Vandana Yadav;;;;0;0;0;0
+id1500;;Maer;Maer;;;;0;0;0;0
+id1501;;sanjaypujare;Sanjay M Pujare;;;;0;0;0;0
+id1502;;tthompso;Travis Thompson;;;;0;0;0;0
+id1503;;hsutherland;Heather Sutherland;;;;0;0;0;0
+id1504;;slavik_krassovsky;Slavik Krassovsky;;;;0;0;0;0
+id1505;;abec;Abraham Elmahrek;;;;0;0;0;0
+id1506;;xiemaisi;Max Schaefer;;;;0;0;0;0
+id1507;Sanjay Radia;sanjay.radia;Sanjay Radia;;;;0;0;0;0
+id1508;Kengo Seki;sekikn;Kengo Seki;;;;0;0;1;0
+id1509;;aroop;Aroop Maliakkal;;;;0;0;0;0
+id1510;;saileshpatel;Sailesh Patel;;;;0;0;0;0
+id1511;Subru Krishnan;subru;Subramaniam Krishnan;Microsoft;;5,5;1;1;1;1
+id1512;;heathcd;Clint Heath;;;;0;0;0;0
+id1513;;deepesh;Deepesh Khandelwal;;;;0;0;0;0
+id1514;;humanoid;Alexey Diomin;;;;0;0;0;0
+id1515;;rjustice;Robert Justice;;;;0;0;0;0
+id1516;;rajesh23;rajeshbabu;;;;0;0;0;0
+id1517;Ajay Kumar;ajayydv;Ajay Kumar;;;;0;0;0;0
+id1518;;savu.andrei;Andrei Savu;;;;0;0;0;0
+id1519;;iyappans;Iyappan Srinivasan;;;;0;0;0;0
+id1520;Larry McCay;lmccay@apache.org;larry mccay;;;;0;0;0;0
+id1521;;Sonia;Sonia Garudi;;;;0;0;0;0
+id1522;;ltucker;Lee Tucker;;;;0;0;0;0
+id1523;;stepinto;Chao Shi;;;;0;0;0;0
+id1524;;kartik.bhatia;Kartik Bhatia;;;;0;0;0;0
+id1525;;junegunn;Junegunn Choi;;;;0;0;0;0
+id1526;;bjeffrey;Bryan Jeffrey;;;;0;0;0;0
+id1527;;ragarwal;Rohit Agarwal;;;;0;0;0;0
+id1528;;ravwojdyla;Rafal Wojdyla;;;;0;0;0;0
+id1529;;chitnis;Mona Chitnis;;;;0;0;0;0
+id1530;;edwin.chan;Edwin Chan;;;;0;0;0;0
+id1531;;johannes.simon;Johannes Simon;;;;0;0;0;0
+id1532;;srikanth1184;Sai Nukavarapu;;;;0;0;0;0
+id1533;;onpduo;Duo Xu;;;;0;0;0;0
+id1534;;Weisen Han;Weisen Han;;;;0;0;0;0
+id1535;;raju.bairishetti;Raju Bairishetti;;;;0;0;0;0
+id1536;;ikelly;Ivan Kelly;;;;0;0;0;0
+id1537;Ray Chiang;rchiang;Ray Chiang;Cloudera;;-8;1;1;1;1
+id1538;;sami.abobala;Sami Abobala;;;;0;0;0;0
+id1539;David Mollitor;belugabehr;David Mollitor;;;;0;0;0;0
+id1540;;G.Reina;Giuseppe Reina;;;;0;0;0;0
+id1541;;alexxz;Alexey Eremikhin;;;;0;0;0;0
+id1542;;lucianogiuseppe;Giuseppe Luciano;;;;0;0;0;0
+id1543;Nathan Roberts;nroberts;Nathan Roberts;Verizon Media;;-6;0;1;1;1
+id1544;;baktha;K G Bakthavachalam;;;;0;0;0;0
+id1545;Masatake Iwasaki;iwasakims;Masatake Iwasaki;NTT DATA;;9;1;1;1;1
+id1546;;bowenzhangusa;Bowen Zhang;;;;0;0;0;0
+id1547;;dvohra;DeepakVohra;;;;0;0;0;0
+id1548;;archanat;Archana T;;;;0;0;0;0
+id1549;;xianyuxiaoer2;ligongyi;;;;0;0;0;0
+id1550;;hunanmeitan@gmail.com;can_he;;;;0;0;0;0
+id1551;;ichattopadhyaya;Ishan Chattopadhyaya;;;;0;0;0;0
+id1552;;kshukla;Kuhu Shukla;;;;0;0;0;0
+id1553;;shekhar.kotekar;chandrashekhar Kotekar;;;;0;0;0;0
+id1554;;yanghaogn;Yang Hao;;;;0;0;0;0
+id1555;;sohaibiftikhar;Sohaib Iftikhar;;;;0;0;0;0
+id1556;;fnie;Nie Gus;;;;0;0;0;0
+id1557;;eddymier;Zhang Bingjun;;;;0;0;0;0
+id1558;;gflarrahondo;German Florez-Larrahondo;;;;0;0;0;0
+id1559;;ehiggs;Ewan Higgs;;;;0;0;0;0
+id1560;;rabe-jens;Jens Rabe;;;;0;0;0;0
+id1561;;jmu;Jiang Mingyu;;;;0;0;0;0
+id1562;;dhecht;Daniel Hecht;;;;0;0;0;0
+id1563;;drzhonghao;Hao Zhong;;;;0;0;0;0
+id1564;;gkasap;Georgios Kasapoglou;;;;0;0;0;0
+id1565;Kitti Nanasi;knanasi;Kitti Nanasi;;;;0;0;1;0
+id1566;;StefanLee;StefanLee;;;;0;0;0;0
+id1567;;viswaj;viswanathan;;;;0;0;0;0
+id1568;;skaterxu;qiang xu;;;;0;0;0;0
+id1569;;josb-ebay;Jos Backus;;;;0;0;0;0
+id1570;;philovivero;philo vivero;;;;0;0;0;0
+id1571;;highlycaffeinated;David Dobbins;;;;0;0;0;0
+id1572;;tianyin;Tianyin Xu;;;;0;0;0;0
+id1573;;chackra;Chackaravarthy;;;;0;0;0;0
+id1574;;lvchuanwen;lvchuanwen;;;;0;0;0;0
+id1575;;johnh;John Hjelmstad;;;;0;0;0;0
+id1576;;judy@pepperdata.com;Judy Hay;;;;0;0;0;0
+id1577;;MikeEngland;Michael England;;;;0;0;0;0
+id1578;;chiwanpark;Chiwan Park;;;;0;0;0;0
+id1579;;alo.alt;Alexander Alten-Lorenz;;;;0;0;0;0
+id1580;;zhuguangbin86;Guangbin Zhu;;;;0;0;0;0
+id1581;;amalhotra159;Ankit Malhotra;;;;0;0;0;0
+id1582;;hrsharma;Hitesh Sharma;;;;0;0;0;0
+id1583;;butlermh;Mark Butler;;;;0;0;0;0
+id1584;;xiaokang;Kang Xiao;;;;0;0;0;0
+id1585;;xinwei;Xinwei Qin ;;;;0;0;0;0
+id1586;;René Nyffenegger;René Nyffenegger;;;;0;0;0;0
+id1587;;sisankar@microsoft.com;Sivaguru Sankaridurg;;;;0;0;0;0
+id1588;;zyfo2;Will Zhang;;;;0;0;0;0
+id1589;;asrabkin;Ariel Shemaiah Rabkin;;;;0;0;0;0
+id1590;;jpmat;Jean-Pierre Matsumoto;;;;0;0;0;0
+id1591;;cristib;Cristian Barca;;;;0;0;0;0
+id1592;;erwaman;Anthony Hsu;;;;0;0;0;0
+id1593;;ckunz;Christian Kunz;;;;0;0;0;0
+id1594;;hexiaojiao;Jonathan.x.j.He;;;;0;0;0;0
+id1595;;bing;zhengbing li;;;;0;0;0;0
+id1596;;saneax;Sanjay Upadhyay;;;;0;0;0;0
+id1597;;harisekhon;Hari Sekhon;;;;0;0;0;0
+id1598;;mauriciojost;Mauricio Jost;;;;0;0;0;0
+id1599;;rybkine;Grigori Rybkine;;;;0;0;0;0
+id1600;Hitesh Shah;hitesh;Hitesh Shah;Hortonworks;;8;1;1;1;1
+id1601;;vbondarev;Vadim Bondarev;;;;0;0;0;0
+id1602;;dasha.boudnik;Dasha Boudnik;;;;0;0;0;0
+id1603;;ssathish@hortonworks.com;Sumana Sathish;;;;0;0;0;0
+id1604;;prabham;Prabha Manepalli;;;;0;0;0;0
+id1605;;ankushb;Ankush Bhatiya;;;;0;0;0;0
+id1606;;luisfernandoantonioli;Luis Fernando Antonioli;;;;0;0;0;0
+id1607;;chengbing.liu;Chengbing Liu;;;;0;0;0;0
+id1608;;sreenivasulureddy;Y. SREENIVASULU REDDY;;;;0;0;0;0
+id1609;;vamsee;Vamsee K. Yarlagadda;;;;0;0;0;0
+id1610;;ctubbsii;Christopher Tubbs;;;;0;0;0;0
+id1611;;ewohlstadter;Eric Wohlstadter;;;;0;0;0;0
+id1612;;yussufshaikh;Yussuf Shaikh;;;;0;0;0;0
+id1613;;mrbsd;Bert Sanders;;;;0;0;0;0
+id1614;;SamerAdra;Samer Adra;;;;0;0;0;0
+id1615;Jakob Homan, ;hom;hom;;;;0;0;0;0
+id1616;;priyomustafi;Priyo Mustafi;;;;0;0;0;0
+id1617;;shahrs87;Rushabh Shah;;;;0;0;0;0
+id1618;Ming Ma;mingma;Ming Ma;Twitter;;-8;1;1;1;1
+id1619;;mukh007;Mukesh Jha;;;;0;0;0;0
+id1620;;macyang;Mac Yang;;;;0;0;0;0
+id1621;;ikweesung;ikweesung;;;;0;0;0;0
+id1622;;craigm;Craig Macdonald;;;;0;0;0;0
+id1623;;amorton;Aaron Morton;;;;0;0;0;0
+id1624;;cholju73;Cholju Paek;;;;0;0;0;0
+id1625;;chrismattmann;Chris A. Mattmann;;;;0;0;0;0
+id1626;;krisgeus;Kris Geusebroek;;;;0;0;0;0
+id1627;;shurong.mai;Shurong Mai;;;;0;0;0;0
+id1628;;KeithPak;Keith Pak;;;;0;0;0;0
+id1629;;ellenfkh;Ellen Hui;;;;0;0;0;0
+id1630;;anna.budai;Anna Budai;;;;0;0;0;0
+id1631;;nspiegelberg;Nicolas Spiegelberg;;;;0;0;0;0
+id1632;;vesense;Xin Wang;;;;0;0;0;0
+id1633;;ikatsov;Ilya Katsov;;;;0;0;0;0
+id1634;;mry.maillist;Ruyue Ma;;;;0;0;0;0
+id1635;;carp84;Without name - 33;;;;0;0;0;0
+id1636;;glynnbach;Glynn Durham;;;;0;0;0;0
+id1637;;vishal.rajan;vishal.rajan;;;;0;0;0;0
+id1638;;eliac;Eli Acherkan;;;;0;0;0;0
+id1639;Varun Vasudev;vvasudev;Varun Vasudev;Hortonworks;;-8;1;1;1;1
+id1640;;vihangk1;Vihang Karajgaonkar;;;;0;0;0;0
+id1641;;jenniferdai;Jennifer Dai;;;;0;0;0;0
+id1642;fang zhenyi;zhenyi;fang zhenyi;;;;0;0;0;0
+id1643;;artem.aliev;Artem Aliev;;;;0;0;0;0
+id1644;;rguo;Guo Ruijing;;;;0;0;0;0
+id1645;;stanley_shi;stanley shi;;;;0;0;0;0
+id1646;;dking;Dick King;;;;0;0;0;0
+id1647;;mdrob;Mike Drob;;;;0;0;0;0
+id1648;;jooseong;Jooseong Kim;;;;0;0;0;0
+id1649;;brfrn169;Toshihiro Suzuki;;;;0;0;0;0
+id1650;;jiessie;Jie Cao;;;;0;0;0;0
+id1651;;liaoyuxiangqin;liaoyuxiangqin;;;;0;0;0;0
+id1652;;raymie;Raymie Stata;;;;0;0;0;0
+id1653;;timyitong;Yitong Zhou;;;;0;0;0;0
+id1654;;eric14;Eric Baldeschwieler;;;;0;0;0;0
+id1655;;evelyn;Evelyn Sylvia;;;;0;0;0;0
+id1656;;gezapeti;Gézapeti;;;;0;0;0;0
+id1657;;jtstorck;Jeff Storck;;;;0;0;0;0
+id1658;;chegar;Chris Hegarty;;;;0;0;0;0
+id1659;;davsclaus;Claus Ibsen;;;;0;0;0;0
+id1660;;yongchul;YongChul Kwon;;;;0;0;0;0
+id1661;;genericqa;genericqa;;;;0;0;0;0
+id1662;;huangjian;huang jian;;;;0;0;0;0
+id1663;;kai33;Kai Xie;;;;0;0;0;0
+id1664;;milandesai;Milan Desai;;;;0;0;0;0
+id1665;Robert Kanter;rkanter;Robert Kanter;Cloudera;;5,5;1;1;1;1
+id1666;;amihalyi;Antal Mihalyi;;;;0;0;0;0
+id1667;;tcurdt;Torsten Curdt;;;;0;0;0;0
+id1668;;mturk@apache.org;Mladen Turk;;;;0;0;0;0
+id1669;;olgan;Olga Natkovich;;;;0;0;0;0
+id1670;;lvxin_1986;alex.lv;;;;0;0;0;0
+id1671;;bcwalrus;bc Wong;;;;0;0;0;0
+id1672;;lenbok;Len Trigg;;;;0;0;0;0
+id1673;Kai Zheng, ;lewuathe;Kai;;;;0;0;0;0
+id1674;;write2kishore;Krishna Kishore Bonagiri;;;;0;0;0;0
+id1675;;genelkim;Gene Kim;;;;0;0;0;0
+id1676;;akumarb2010;AnilKumar B;;;;0;0;0;0
+id1677;;jpallas;Joe Pallas;;;;0;0;0;0
+id1678;;mgervais;Gervais Mickaël;;;;0;0;0;0
+id1679;Eric Payne, Eric E Payne;eepayne;Without name - 34;;;;0;0;0;0
+id1680;;maobaolong;Baolong Mao;;;;0;0;0;0
+id1681;;lumost;James Moore;;;;0;0;0;0
+id1682;Ravi Gummadi;ravidotg;Ravi Gummadi;;;;0;0;1;0
+id1683;;grey;George Reyes;;;;0;0;0;0
+id1684;;ryanobjc;ryan rawson;;;;0;0;0;0
+id1685;;digitmap;Jacky;;;;0;0;0;0
+id1686;;Alexandre LINTE;LINTE;;;;0;0;0;0
+id1687;;fwiffo;Joey Echeverria;;;;0;0;0;0
+id1688;;s.a.rao@accenture.com;s.a.rao@accenture.com;;;;0;0;0;0
+id1689;Varun Saxena;varun_saxena;Varun Saxena;;;;0;0;0;0
+id1690;;gino9705;Jin-Ho David Shin;;;;0;0;0;0
+id1691;;aklochkov;Andrey Klochkov;;;;0;0;0;0
+id1692;;mac.hadoop@gmail.com;Mac Fang;;;;0;0;0;0
+id1693;;dmitriusan;Dmitry Lysnichenko;;;;0;0;0;0
+id1694;;mishravivek;Vivek Mishra;;;;0;0;0;0
+id1695;;weiyj;Wei Yongjun;;;;0;0;0;0
+id1696;;irashid;Imran Rashid;;;;0;0;0;0
+id1697;;photogamrun;zhangwei;;;;0;0;0;0
+id1698;;ahelbaz;Ahmed El Baz;;;;0;0;0;0
+id1699;;ashwingiridharan;Ashwin Giridharan;;;;0;0;0;0
+id1700;;serega_sheypak;Sergey;;;;0;0;0;0
+id1701;;nhahtdh;Hong Dai Thanh;;;;0;0;0;0
+id1702;;ricky;Ricky Zhou;;;;0;0;0;0
+id1703;;nfraison.criteo;Nicolas Fraison;;;;0;0;0;0
+id1704;;sluskyb;Ben Slusky;;;;0;0;0;0
+id1705;Zhihai Xu;zxu;Zhihai Xu;Uber;;-8;0;1;1;1
+id1706;;githubbot;ASF GitHub Bot;;;;0;0;0;0
+id1707;;rajive;Rajiv Chittajallu;;;;0;0;0;0
+id1708;;dapengsun;Dapeng Sun;;;;0;0;0;0
+id1709;;jlee@mindset-media.com;John Lee;;;;0;0;0;0
+id1710;;ctm;Chris McConnell;;;;0;0;0;0
+id1711;;hlhuang@us.ibm.com;Hsin-Liang Huang;;;;0;0;0;0
+id1712;;hogeland;Kevin Hogeland;;;;0;0;0;0
+id1713;;ssreenivasan;Sushmitha Sreenivasan;;;;0;0;0;0
+id1714;Zhankun Tang;tangzhankun;Zhankun Tang;;;;0;0;0;0
+id1715;;metcalfc;Chad Metcalf;;;;0;0;0;0
+id1716;;masokan;Mariappan Asokan;;;;0;0;0;0
+id1717;Eric Badger;ebadger;Eric Badger;Verizon Media;;-6;0;1;0;1
+id1718;;fborchers;Felix Borchers;;;;0;0;0;0
+id1719;;kengoodhope;Ken Goodhope;;;;0;0;0;0
+id1720;;bperroud;Benoit Perroud;;;;0;0;0;0
+id1721;;antiwari@microsoft.com;Anunay Tiwari;;;;0;0;0;0
+id1722;;linbao111;linbao111;;;;0;0;0;0
+id1723;;anty.rao;anty;;;;0;0;0;0
+id1724;;he yongqiang;He Yongqiang;;;;0;0;0;0
+id1725;;benjzh;Benjamin Zhitomirsky;;;;0;0;0;0
+id1726;;moritzmoeller;Moritz Moeller;;;;0;0;0;0
+id1727;;leverich;Jacob Leverich;;;;0;0;0;0
+id1728;;jo_desmet@yahoo.com;Jo Desmet;;;;0;0;0;0
+id1729;;KarlManong;KarlManong;;;;0;0;0;0
+id1730;;animenon;Anirudh;;;;0;0;0;0
+id1731;;brainlounge;Bernd Fondermann;;;;0;0;0;0
+id1732;Harsh J;qwertymaniac;Harsh J;;;;0;0;0;0
+id1733;;udai;Udai Kiran Potluri;;;;0;0;0;0
+id1734;;397090770;iteblog;;;;0;0;0;0
+id1735;;anandmuttagi;Anand V M;;;;0;0;0;0
+id1736;;amithdk;amith;;;;0;0;0;0
+id1737;;pinkencryption;pinkencryption;;;;0;0;0;0
+id1738;;MehranHassani;Mehran Hassani;;;;0;0;0;0
+id1739;;peeyushb;Peeyush Bishnoi;;;;0;0;0;0
+id1740;;chenyukang;chenyukang;;;;0;0;0;0
+id1741;Amar Ramesh Kamat, Amar Kamat;amar_kamat;Amar Kamat;;;;0;0;0;0
+id1742;;jfield;Without name - 35;;;;0;0;0;0
+id1743;;Wancy;Shi Wang;;;;0;0;0;0
+id1744;;gujilangzi;Wenwu Peng;;;;0;0;0;0
+id1745;;HadoopDev;Hadoop Developer;;;;0;0;0;0
+id1746;Oleg Danilov;olegd;Oleg Danilov;;;;0;0;1;0
+id1747;;mdeferran;Manuel DE FERRAN;;;;0;0;0;0
+id1748;;venug;Venu Gopala Rao;;;;0;0;0;0
+id1749;;Tobi;Tobi Knaup;;;;0;0;0;0
+id1750;;jandyfish;jandyfish;;;;0;0;0;0
+id1751;;rgrandl;Robert Grandl;;;;0;0;0;0
+id1752;;yaojingguo;Jingguo Yao;;;;0;0;0;0
+id1753;;ikeda;Hiroshi Ikeda;;;;0;0;0;0
+id1754;;alexvk;Alex Kozlov;;;;0;0;0;0
+id1755;Patrick Hunt;phunt;Patrick D. Hunt;Cloudera;ZooKeeper;-8;1;0;0;1
+id1756;;chansler;Robert Chansler;;;;0;0;0;0
+id1757;;simleo;Simone Leo;;;;0;0;0;0
+id1758;;jabdussa;Anwar Abdus-Samad;;;;0;0;0;0
+id1759;;myapachejira;Ping Liu;;;;0;0;0;0
+id1760;;yumwang;Yuming Wang;;;;0;0;0;0
+id1761;;vinayrpet;Without name - 36;;;;0;0;0;0
+id1762;;timsoso;Timothy So;;;;0;0;0;0
+id1763;;wangg23;Gordon Wang;;;;0;0;0;0
+id1764;;tbroberg;Tim Broberg;;;;0;0;0;0
+id1765;;oflebbe;Olaf Flebbe;;;;0;0;0;0
+id1766;;mbertozzi;Matteo Bertozzi;;;;0;0;0;0
+id1768;Andrzej Bialecki;;;;;;0;0;0;0
+id1777;Devaraj Das;;;;;;0;0;0;0
+id1780;Hemanth Boyina;;;;;;0;0;0;0
+id1782;Lei Xu;;;;;;0;0;1;0
+id1783;Xun Liu;;;;;;0;0;0;0
+id1784;Lohit Vijayarenu;;;;;;0;0;0;0
+id1785;Mukund Madhugiri;;;;;;0;0;0;0
+id1792;Surendra Singh Lilhore;;;;;;0;0;0;0
+id1793;Siddharth Wagle;;;;;;0;0;0;0
+id1795;Christophe Taton;;;;;;0;0;0;0
+id1796;Vinayakumar B;;;;;;0;0;0;0
+id1797;Vivek Ratnavel Subramanian;;;;;;0;0;0;0
+id1798;Wei-Chiu Chuang;;;;;;0;0;0;0

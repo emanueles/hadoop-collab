@@ -1,0 +1,213 @@
+username;Name;organization;roles;timezone;pmc;committer;git
+aajisaka;Akira Ajisaka;Yahoo! JAPAN;;9,0;1;1;1
+ab;Andrzej Bialecki;Getopt;;1,0;0;1;0
+abmodi;Abhishek Modi;Microsoft;;5,5;0;1;0
+acmurthy;Arun C Murthy, Arun C. Murthy;Hortonworks;;-8,0;1;1;1
+adhoot;Anubhav Dhoot;Cloudera;;-8,0;0;1;1
+aengineer;Anu Engineer;Hortonworks;;-8,0;1;1;1
+ajay;Ajay Kumar;Hortonworks;;-8,0;0;1;1
+amareshwari;Amareshwari Sriramadasu, Amareshwari Sri Ramadasu;InMobi;;5,5;1;1;1
+amarrk;Amar Ramesh Kamat, Amar Kamat;Yahoo!;;5,5;0;1;1
+arp;Arpit Agarwal;Hortonworks;;-8,0;1;1;1
+arpit;Arpit Gupta;Hortonworks;;-8,0;0;1;0
+asuresh;Arun Suresh;LinkedIn;;-8,0;1;1;1
+atm;Aaron T. Myers, Aaron Myers;Cloudera;;-8,0;1;1;1
+avijayan;Aravindan Vijayan;Cloudera;;-8,0;0;1;0
+aw;Allen Wittenauer;Effective Machines;;-8,0;0;1;1
+ayushsaxena;Ayush Saxena;Cloudera;;5,5;1;1;0
+benoy;Benoy Antony;eBay;;-8,0;0;1;1
+bharat;Bharat Viswanadham;Hortonworks;;-8,0;0;1;1
+bibinchundatt;Bibin A Chundatt;Microsoft;;5,5;1;1;1
+bikas;Bikas Saha;Hortonworks;;-8,0;1;1;1
+billie;Billie Rinaldi;Microsoft/Cloudera;;-5,0;1;1;1
+bobby;Robert(Bobby) Evans, Robert Joseph Evans;Nvidia;;-6,0;1;1;1
+boryas;Boris Shkolnik;LinkedIn;;-8,0;0;1;1
+botong;Botong Huang;Alibaba;;-8,0;0;1;0
+brahma;Brahma Reddy Battula;Huawei;;5,5;1;1;1
+brandonli;Brandon Li;Hortonworks;;-8,0;1;1;1
+busbey;Sean Busbey;Cloudera;;-6,0;0;1;0
+cdouglas;Chris Douglas;Microsoft;;-8,0;1;1;1
+cliang;Chen Liang;LinkedIn;;-8,0;1;1;1
+cmccabe;Colin Patrick McCabe, Colin McCabe;Cloudera;HDFS;-8,0;1;1;1
+cnauroth;Chris Nauroth;Hortonworks;;-8,0;1;1;1
+cos;Konstantin Boudnik;WANdisco;;-8,0;0;1;1
+csingh;Chandni Singh;LinkedIn;;-8,0;0;1;0
+ctrezzo;Chris Trezzo;Twitter;;-8,0;0;1;1
+curino;Carlo Curino;Microsoft;;-8,0;0;1;1
+cutting;Doug Cutting;Cloudera;;-8,0;1;1;1
+daryn;Daryn Sharp;Verizon Media;;-6,0;1;1;1
+ddas;Devaraj Das;Hortonworks;;-8,0;1;1;1
+devaraj;Devaraj K, Devarajulu K;Intel;;5,5;1;1;1
+dhruba;Dhruba Borthakur;Facebook;;-8,0;1;1;0
+dineshc;Dinesh Chitlangia;Cloudera;;-5,0;0;1;0
+dmollitor;David Mollitor;Cloudera;;-5,0;0;1;0
+drankye;Kai Zheng;Intel;;8,0;0;1;1
+ebadger;Eric Badger;Verizon Media;;-6,0;0;1;0
+elek;Márton Elek;Hortonworks;;1,0;0;1;1
+eli;Eli Collins;Cloudera;;-8,0;1;1;1
+enis;Enis Soztutar;Hortonworks;;-6,0;1;1;1
+epayne;Eric Payne, Eric E Payne;Verizon Media;;-8,0;1;1;1
+eyang;Eric Yang;IBM;;-8,0;0;1;1
+gabota;Gabor Bota;Cloudera;;1,0;0;1;1
+gera;Gera Shegalov;Salesforce/Einstein Platform;;-8,0;0;1;1
+gifuma;Giovanni Matteo Fumarola;Microsoft;;-8,0;0;1;1
+gkesavan;Giridharan Kesavan;Hortonworks;RE;-8,0;1;1;1
+gtcarrera9;Li Lu;Hortonworks;;-8,0;0;1;1
+haibochen;Haibo Chen;LinkedIn;;5,5;1;1;1
+hairong;Hairong Kuang;Facebook;HDFS;-8,0;1;1;1
+hanishakoneru;Hanisha Koneru;Hortonworks;;-8,0;0;1;1
+harsh;Harsh J;Cloudera;;-8,0;0;1;1
+hemanthboyina;Hemanth Boyina;Huawei;;-8,0;0;1;0
+hexiaoqiao;He Xiaoqiao;Meituan;;5,5;0;1;0
+hitesh;Hitesh Shah;Hortonworks;;8,0;1;1;1
+inigoiri;Íñigo Goiri, Inigo Goiri;Microsoft;;-8,0;1;1;1
+ivanmi;Ivan Mitic;Microsoft;;-8,0;0;1;1
+iwasakims;Masatake Iwasaki;NTT DATA;;9,0;1;1;1
+jeagles;Jonathan Eagles, Jonathan Turner Eagles;Verizon Media;;-6,0;1;1;1
+jghoman;Jakob Homan;LinkedIn;;-8,0;1;1;1
+jhung;Jonathan Hung;LinkedIn;;-8,0;1;1;0
+jianhe;Jian He;Hortonworks;;-8,0;1;1;1
+jing9;Jing Zhao;Hortonworks;;-8,0;1;1;1
+jitendra;Jitendra Nath Pandey, Jitendra Pandey;Hortonworks;;-8,0;1;1;1
+jlowe;Jason Lowe, Jason Darrell Lowe;Nvidia;;-6,0;1;1;1
+johan;Johan Oskarsson;Twitter;;0,0;0;1;0
+junping_du;Junping Du;Tencent;;8,0;1;1;1
+jzhuge;John Zhuge;Netflix;;-8,0;1;1;1
+kasha;Karthik Kambatla;Cloudera;;-8,0;1;1;1
+kihwal;Kihwal Lee;Verizon Media;;-6,0;1;1;1
+kkaranasos;Konstantinos Karanasos;Microsoft;;-8,0;1;1;1
+knoguchi;Koji Noguchi;Verizon Media;;-8,0;0;1;0
+kzhang;Kan Zhang;IBM;;-8,0;0;1;0
+lei;Lei Xu;Cruise Automation/Cloudera;;-8,0;1;1;1
+liuml07;Mingliang Liu;Salesforce;HDFS;-8,0;1;1;1
+liuxun;Xun Liu;DiDi;;8,0;0;1;0
+ljain;Lokesh Jain;Cloudera;;5,5;1;1;1
+llu;Luke Lu;VMware;;-8,0;1;1;1
+lmccay;Larry McCay;Hortonworks;;-8,0;0;1;1
+lohit;Lohit Vijayarenu;Twitter;;-5,0;0;1;0
+mackrorysd;Sean Mackrory;Cloudera;;-7,0;0;1;1
+mahadev;Mahadev Konar;Hortonworks;;-8,0;1;1;1
+manojpec;Manoj Govindassamy;Cloudera;;-8,0;0;1;1
+matei;Matei Zaharia;UC Berkeley;;-8,0;0;1;0
+mattf;Matthew Foley;Apple;HDFS;-8,0;1;1;1
+mayank;Mayank Bansal;Uber;;-8,0;0;1;0
+mingma;Ming Ma;Twitter;;-8,0;1;1;1
+molkov;Dmytro Molkov;Facebook;HDFS;-8,0;0;1;1
+msingh;Mukul Kumar Singh;Hortonworks;;-8,0;1;1;1
+mukund;Mukund Madhugiri;Yahoo!;QA;5,5;0;1;0
+naganarasimha_gr;Naganarasimha G R, Naganarasimha;SCB;;8,0;1;1;1
+nanda;Nanda kumar;Hortonworks;;5,5;1;1;1
+nigel;Nigel Daley;Pinterest;QA;-8,0;1;1;1
+nroberts;Nathan Roberts;Verizon Media;;-6,0;0;1;1
+omalley;Owen O'Malley;Hortonworks;;-8,0;1;1;1
+ozawa;Tsuyoshi Ozawa;NTT;;9,0;1;1;1
+phunt;Patrick Hunt;Cloudera;ZooKeeper;-8,0;1;0;0
+prabhujoseph;Prabhu Joseph;Cloudera;;5,5;0;1;0
+rakeshr;Rakesh Radhakrishnan;Intel;;-8,0;0;1;1
+ramya;Ramya Sunil;Hortonworks;;-8,0;0;1;1
+rangadi;Raghu Angadi;Twitter;HDFS;-8,0;1;1;1
+raviprak;Ravi Prakash;Altiscale, Inc.;;-8,0;0;1;1
+rchiang;Ray Chiang;Cloudera;;-8,0;1;1;1
+rkanter;Robert Kanter;Cloudera;;5,5;1;1;1
+rohithsharmaks;Rohith Sharma K S;Hortonworks;;-8,0;1;1;1
+rvs;Roman Shaposhnik;Pivotal;;8,0;0;1;0
+sammichen;Sammi Chen;Tencent;;-8,0;1;1;1
+sandy;Sandy Ryza;Cloudera;;5,5;1;1;1
+schen;Scott Chun-Yang Chen;Facebook;;-8,0;0;1;0
+sharad;Sharad Agarwal;InMobi;;-8,0;1;1;1
+shashikant;Shashikant Banerjee;Cloudera;;5,5;1;1;1
+shv;Konstantin Shvachko, Konstantin V Shvachko;LinkedIn;HDFS;-8,0;1;1;1
+sidharta;Sidharta Seethana;Hortonworks;;-8,0;0;1;0
+siyao;Siyao Meng;Cloudera;;-8,0;0;1;0
+sjlee;Sangjin Lee;PayPal;;5,5;1;1;1
+snemeth;Szilard Nemeth;Cloudera;;-8,0;0;1;0
+sradia;Sanjay Radia;Hortonworks;;1,0;1;1;1
+sreekanth;Sreekanth Ramakrishnan;InMobi;;-8,0;0;1;0
+sseth;Siddharth Seth;Hortonworks;;0,0;1;1;1
+stack;Michael Stack;Apple;HBase;-8,0;1;0;1
+stevel;Steve Loughran;Cloudera;;-8,0;1;1;1
+subru;Subru Krishnan;Microsoft;;5,5;1;1;1
+sunchao;Chao Sun;Uber;HDFS;5,5;0;1;1
+sunilg;Sunil Govindan, Sunil G;Cloudera;;-8,0;1;1;1
+surendralilhore;Surendra Singh Lilhore;Microsoft;HDFS;-8,0;1;1;1
+suresh;Suresh Srinivas;Hortonworks;;-8,0;1;1;1
+swagle;Siddharth Wagle;Cloudera;;-8,0;0;1;0
+szegedim;Miklos Szegedi;Cloudera;YARN;-8,0;0;1;1
+szetszwo;Tsz Wo (Nicholas) Sze, Tsz-Wo Nicholas Sze, Tsz-Wo Sze;Hortonworks;;8,0;1;1;1
+tanping;Tanping Wang;Yahoo!;;9,0;0;1;1
+taoyang;Tao Yang;Alibaba;;1,0;0;1;0
+tasanuma;Takanobu Asanuma;Yahoo! JAPAN;;-8,0;0;1;1
+taton;Christophe Taton;INRIA;;-6,0;0;1;0
+templedf;Daniel Templeton;Cloudera;;-8,0;1;1;1
+tgraves;Thomas Graves;Nvidia;;-8,0;1;1;1
+todd;Todd Lipcon;Cloudera;;-8,0;1;1;1
+tomwhite;Tom White, Thomas White;Cloudera;;5,5;1;1;1
+tucu;Alejandro Abdelnur;Cloudera;;5,5;1;1;1
+umamahesh;Uma Maheswara Rao G, Uma Mahesh, Uma Maheswara Rao Gangumalla;Intel;HDFS;5,5;1;1;0
+varunsaxena;Varun Saxena;LinkedIn;;-8,0;1;1;1
+vinayakumarb;Vinayakumar B;Huawei;HDFS;-8,0;1;1;1
+vinodkv;Vinod Kumar Vavilapalli, Vinod Kumar Vavilapalli (I am also known as @tshooter.);Hortonworks;;-8,0;1;1;1
+vivekratnavel;Vivek Ratnavel Subramanian;Cloudera;;5,5;0;1;0
+vrushali;Vrushali Channapattan, Vrushali C;Twitter;;8,0;0;1;1
+vvasudev;Varun Vasudev;Hortonworks;;-8,0;1;1;1
+waltersu4549;Walter Su;;HDFS;-8,0;0;1;1
+wang;Andrew Wang;Cloudera;;-8,0;1;1;1
+wangda;Wangda Tan;Hortonworks;;-8,0;1;1;1
+weichiu;Wei-Chiu Chuang;Cloudera;;-8,0;0;1;1
+weiy;Wei Yan;Uber;;10,0;0;1;0
+wheat9;Haohui Mai;Uber;;8,0;1;1;1
+wilfreds;Wilfred Spiegelenburg;Cloudera;;-8,0;0;1;0
+wwei;Weiwei Yang;Hortonworks;;-8,0;1;1;1
+xgong;Xuan Gong, XUAN, XUANGong;Hortonworks;;-8,0;1;1;1
+xiao;Xiao Chen;Netflix;;-8,0;1;1;1
+xkrogen;Erik Krogen;LinkedIn;HDFS;-8,0;0;1;1
+xyao;Xiaoyu Yao;Hortonworks;;-8,0;1;1;0
+yhemanth;Hemanth Yamijala;;;5,5;1;0;1
+yjzhangal;Yongjun Zhang;Pinterest;;8,0;1;1;1
+yliu;Yi Liu;Intel;;8,0;1;1;1
+yqlin;Yiqun Lin;EBay;;-8,0;1;1;1
+yufei;Yufei Gu;Apple;;-8,0;1;1;1
+zhouquan;Zac Zhou;Ant Financial;;-8,0;0;1;0
+zhz;Zhe Zhang;LinkedIn;HDFS;8,0;1;1;1
+zjshen;Zhijie Shen;Hortonworks;;-8,0;1;1;1
+zshao;Zheng Shao;Facebook;;-8,0;1;1;0
+ztang;Zhankun Tang;Cloudera;;8,0;1;1;0
+zxu;Zhihai Xu;Uber;;-8,0;0;1;1
+;Aaron Fabbri;;;;;;1
+;Albert Chu;;;;;;1
+;Andras Bokor;;;;;;1
+;Andrew Purtell;;;;;;1
+;Andrey Dyatlov;;;;;;1
+;Charles Lamb;;;;;;1
+;Christopher Douglas;;;;;;1
+d9liang;Dongming Liang;;;;;;1
+;fang zhenyi;;;;;;1
+;Gergely Novák;;;;;;1
+;Hrishikesh Gadre;;;;;;1
+;James Clampffer;;;;;;1
+;James Clampffer;;;;;;1
+;Jianfei Jiang;;;;;;1
+;Jinjiang Ling;;;;;;1
+;Joe Mészáros;;;;;;1
+;Kengo Seki;;;;;;1
+;Kitti Nanasi;;;;;;1
+;Lei Xu;;;;;;1
+;Masahiro Tanaka;;;;;;1
+;Min Shen;;;;;;1
+;Oleg Danilov;;;;;;1
+;Plamen Jeliazkov;;;;;;1
+;Ravi Gummadi;;;;;;1
+;Sen Zhao;;;;;;1
+;Shane Kumpf;;;;;;1
+;Shweta;;;;;;1
+;Suma Shivaprasad;;;;;;1
+;Tao Luo;;;;;;1
+;Ted Yu;;;;;;1
+;Thomas Marquardt;;;;;;1
+;Tom Zeng;;;;;;1
+;Vidura Mudalige;;;;;;1
+;Vinitha Reddy Gankidi;;;;;;1
+;Virajith Jalaparti;;;;;;1
+;Xiaobing Zhou;;;;;;1
+;Yuanbo Liu;;;;;;1
+;Zsolt Venczel;;;;;;1

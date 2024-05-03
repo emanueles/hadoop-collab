@@ -1,0 +1,173 @@
+username;Name;organization;roles;timezone
+aajisaka;Akira Ajisaka;Yahoo! JAPAN;;9
+ab;Andrzej Bialecki;Getopt;;1
+abmodi;Abhishek Modi;Microsoft;;+5.5
+acmurthy;Arun C Murthy;Hortonworks;;-8
+adhoot;Anubhav Dhoot;Cloudera;;-8
+aengineer;Anu Engineer;Hortonworks;;-8
+ajay;Ajay Kumar;Hortonworks;;-8
+amareshwari;Amareshwari Sriramadasu;InMobi;;+5.5
+amarrk;Amar Ramesh Kamat;Yahoo!;;+5.5
+arp;Arpit Agarwal;Hortonworks;;-8
+arpit;Arpit Gupta;Hortonworks;;-8
+asuresh;Arun Suresh;LinkedIn;;-8
+atm;Aaron T. Myers;Cloudera;;-8
+avijayan;Aravindan Vijayan;Cloudera;;-8
+aw;Allen Wittenauer;Effective Machines;;-8
+ayushsaxena;Ayush Saxena;Cloudera;;+5.5
+benoy;Benoy Antony;eBay;;-8
+bharat;Bharat Viswanadham;Hortonworks;;-8
+bibinchundatt;Bibin A Chundatt;Microsoft;;+5.5
+bikas;Bikas Saha;Hortonworks;;-8
+billie;Billie Rinaldi;Cloudera;;-5
+bobby;Robert(Bobby) Evans;Nvidia;;-6
+boryas;Boris Shkolnik;LinkedIn;;-8
+botong;Botong Huang;Alibaba;;-8
+brahma;Brahma Reddy Battula;Huawei;;+5.5
+brandonli;Brandon Li;Hortonworks;;-8
+busbey;Sean Busbey;Cloudera;;-6
+cdouglas;Chris Douglas;Microsoft;;-8
+cliang;Chen Liang;LinkedIn;;-8
+cmccabe;Colin Patrick McCabe;Cloudera;HDFS;-8
+cnauroth;Chris Nauroth;Hortonworks;;-8
+cos;Konstantin Boudnik;WANdisco;;-8
+csingh;Chandni Singh;LinkedIn;;-8
+ctrezzo;Chris Trezzo;Twitter;;-8
+curino;Carlo Curino;Microsoft;;-8
+cutting;Doug Cutting;Cloudera;;-8
+daryn;Daryn Sharp;Verizon Media;;-6
+ddas;Devaraj Das;Hortonworks;;-8
+devaraj;Devaraj K;Intel;;+5.5
+dhruba;Dhruba Borthakur;Facebook;;-8
+dineshc;Dinesh Chitlangia;Cloudera;;-5
+dmollitor;David Mollitor;Cloudera;;-5
+drankye;Kai Zheng;Intel;;8
+ebadger;Eric Badger;Verizon Media;;-6
+elek;Márton Elek;Hortonworks;;1
+eli;Eli Collins;Cloudera;;-8
+epayne;Eric Payne;Verizon Media;;-6
+enis;Enis Soztutar;Hortonworks;;-8
+eyang;Eric Yang;IBM;;-8
+ferhui;Hui Fei;Tencent;;8
+gabota;Gabor Bota;Cloudera;;1
+gera;Gera Shegalov;Salesforce, Einstein Platform;;-8
+gifuma;Giovanni Matteo Fumarola;Microsoft;;-8
+gkesavan;Giridharan Kesavan;Hortonworks;RE;-8
+gtcarrera9;Li Lu;Hortonworks;;-8
+hemanthboyina;Hemanth Boyina;Huawei;;+5.5
+hitesh;Hitesh Shah;Hortonworks;;-8
+haibochen;Haibo Chen;LinkedIn;;-8
+hairong;Hairong Kuang;Facebook;HDFS;-8
+hanishakoneru;Hanisha Koneru;Hortonworks;;-8
+harsh;Harsh J;Cloudera;;+5.5
+hexiaoqiao;He Xiaoqiao;Meituan;;8
+inigoiri;Íñigo Goiri;Microsoft;;-8
+ivanmi;Ivan Mitic;Microsoft;;-8
+iwasakims;Masatake Iwasaki;NTT DATA;;9
+jeagles;Jonathan Eagles;Verizon Media;;-6
+jghoman;Jakob Homan;LinkedIn;;-8
+jhung;Jonathan Hung;LinkedIn;;-8
+jianhe;Jian He;Hortonworks;;-8
+jing9;Jing Zhao;Hortonworks;;-8
+jitendra;Jitendra Nath Pandey;Hortonworks;;-8
+jlowe;Jason Lowe;Nvidia;;-6
+johan;Johan Oskarsson;Twitter;;0
+junping_du;Junping Du;Tencent;;8
+jzhuge;John Zhuge;Netflix;;-8
+kasha;Karthik Kambatla;Cloudera;;-8
+kihwal;Kihwal Lee;Verizon Media;;-6
+kkaranasos;Konstantinos Karanasos;Microsoft;;-8
+knoguchi;Koji Noguchi;Verizon Media;;-8
+kzhang;Kan Zhang;IBM;;-8
+lei;Lei Xu;Cloudera;;-8
+liuml07;Mingliang Liu;Salesforce;HDFS;-8
+liuxun;Xun Liu;DiDi;;8
+ljain;Lokesh Jain;Cloudera;;+5.5
+lohit;Lohit Vijayarenu;Twitter;;-8
+llu;Luke Lu;VMware;;-8
+lmccay;Larry McCay;Hortonworks;;-5
+mackrorysd;Sean Mackrory;Cloudera;;-7
+mahadev;Mahadev Konar;Hortonworks;;-8
+manojpec;Manoj Govindassamy;Cloudera;;-8
+matei;Matei Zaharia;UC Berkeley;;-8
+mattf;Matthew Foley;Apple;HDFS;-8
+mayank;Mayank Bansal;uber;;-8
+molkov;Dmytro Molkov;Facebook;HDFS;-8
+mukund;Mukund Madhugiri;Yahoo!;QA;-8
+mingma;Ming Ma;Twitter;;-8
+msingh;Mukul Kumar Singh;Hortonworks;;+5.5
+naganarasimha_gr;Naganarasimha G R;SCB;;+8.0
+nanda;Nanda kumar;Hortonworks;;+5.5
+nigel;Nigel Daley;Pinterest;QA;-8
+nroberts;Nathan Roberts;Verizon Media;;-6
+omalley;Owen O'Malley;Hortonworks;;-8
+ozawa;Tsuyoshi Ozawa;NTT;;9
+prabhujoseph;Prabhu Joseph;Cloudera;;+5.5
+rakeshr;Rakesh Radhakrishnan;Intel;;+5.5
+rangadi;Raghu Angadi;Twitter;HDFS;-8
+ramya;Ramya Sunil;Hortonworks;;-8
+raviprak;Ravi Prakash;Altiscale, Inc.;;-8
+rchiang;Ray Chiang;Cloudera;;-8
+rkanter;Robert Kanter;Cloudera;;-8
+rohithsharmaks;Rohith Sharma K S;Hortonworks;;+5.5
+rvs;Roman Shaposhnik;Pivotal;;-8
+sammichen;Sammi Chen;Tencent;;8
+schen;Scott Chun-Yang Chen;Facebook;;-8
+sharad;Sharad Agarwal;InMobi;;+5.5
+shv;Konstantin Shvachko;LinkedIn;HDFS;-8
+sandy;Sandy Ryza;Cloudera;;-8
+shashikant;Shashikant Banerjee;Cloudera;;+5.5
+siyao;Siyao Meng;Cloudera;;-8
+sjlee;Sangjin Lee;PayPal;;-8
+sradia;Sanjay Radia;Hortonworks;;-8
+sreekanth;Sreekanth Ramakrishnan;InMobi;;+5.5
+sidharta;Sidharta Seethana;Hortonworks;;-8
+snemeth;Szilard Nemeth;Cloudera;;1
+sseth;Siddharth Seth;Hortonworks;;-8
+stevel;Steve Loughran;Cloudera;;0
+subru;Subru Krishnan;Microsoft;;-8
+sunchao;Chao Sun;Uber;HDFS;-8
+sunilg;Sunil Govindan;Cloudera;;+5.5
+surendralilhore;Surendra Singh Lilhore;Microsoft;HDFS;+5.5
+suresh;Suresh Srinivas;Hortonworks;;-8
+swagle;Siddharth Wagle;Cloudera;;-8
+szegedim;Miklos Szegedi;Cloudera;YARN;-8
+szetszwo;Tsz Wo (Nicholas) Sze;Hortonworks;;-8
+tanping;Tanping Wang;Yahoo!;;-8
+taoyang;Tao Yang;Alibaba;;8
+tasanuma;Takanobu Asanuma;Yahoo! JAPAN;;9
+taton;Christophe Taton;INRIA;;1
+templedf;Daniel Templeton;Cloudera;;-8
+tgraves;Thomas Graves;Nvidia;;-6
+todd;Todd Lipcon;Cloudera;;-8
+tomwhite;Tom White;Cloudera;;-8
+tucu;Alejandro Abdelnur;Cloudera;;-8
+umamahesh;Uma Maheswara Rao G;Intel;HDFS;+5.5
+varunsaxena;Varun Saxena;LinkedIn;;+5.5
+vinayakumarb;Vinayakumar B;Huawei;HDFS;+5.5
+vinodkv;Vinod Kumar Vavilapalli;Hortonworks;;-8
+vivekratnavel;Vivek Ratnavel Subramanian;Cloudera;;-8
+vrushali;Vrushali Channapattan;Twitter;;-8
+vvasudev;Varun Vasudev;Hortonworks;;+5.5
+waltersu4549;Walter Su;;HDFS;8
+wang;Andrew Wang;Cloudera;;-8
+wangda;Wangda Tan;Hortonworks;;-8
+weichiu;Wei-Chiu Chuang;Cloudera;;-8
+weiy;Wei Yan;Uber;;-8
+wheat9;Haohui Mai;Uber;;-8
+wilfreds;Wilfred Spiegelenburg;Cloudera;;10
+wwei;Weiwei Yang;Hortonworks;;8
+xgong;Xuan Gong;Hortonworks;;-8
+xiao;Xiao Chen;Netflix;;-8
+xkrogen;Erik Krogen;LinkedIn;HDFS;-8
+xyao;Xiaoyu Yao;Hortonworks;;-8
+yufei;Yufei Gu;Apple;;-8
+yjzhangal;Yongjun Zhang;Pinterest;;-8
+yliu;Yi Liu;Intel;;8
+yqlin;Yiqun Lin;EBay;;8
+zhouquan;Zac Zhou;Ant Financial;;8
+zhz;Zhe Zhang;LinkedIn;HDFS;-8
+zjshen;Zhijie Shen;Hortonworks;;-8
+zshao;Zheng Shao;Facebook;;-8
+ztang;Zhankun Tang;Cloudera;;8
+zxu;Zhihai Xu;Uber;;-8
