@@ -36,26 +36,26 @@ And then open VSCode and configure it to use the virtual environment above.
 ### Analysis (in the generate_analysis_and_visualization folder)
 
 #### Datasets
- - `../datasets/bug_report_collab_dataset.csv` => main data file used for analyses and visualizations.
- - `../datasets/comment_author_groupby_bug.csv` => file used to generate `bug_report_collab_dataset.csv`
+ - `generate_analysis_and_visualization/datasets/bug_report_collab_dataset.csv` => main data file used for analyses and visualizations.
+ - `generate_analysis_and_visualization/datasets/comment_author_groupby_bug.csv` => file used to generate `bug_report_collab_dataset.csv`
  - contributors_summary_dataset_full.csv => file also used to generate `bug_report_collab_dataset.csv`
- - `../datasets/duckdb/` => data files stored in duckdb format
- - `../datasets/snapshot_voting.csv` => modified original `snapshots.csv` file with NaT values removed because duckdb does not load these data types. It also includes voting and size metrics.
- - `../datasets/commentslog_voting.csv` => modified original `comments.csv`file with voting and size metrics
+ - `generate_analysis_and_visualization/datasets/duckdb/` => data files stored in duckdb format
+ - `generate_analysis_and_visualization/datasets/snapshot_voting.csv` => modified original `snapshots.csv` file with NaT values removed because duckdb does not load these data types. It also includes voting and size metrics.
+ - `generate_analysis_and_visualization/datasets/commentslog_voting.csv` => modified original `comments.csv`file with voting and size metrics
 
 #### Scripts 
   - Main Analyses' file:
-   - `collaboration_metrics_correlations.ipynb`=> documented jupyter notebook for generating the correlations of the metrics
+   - `generate_analysis_and_visualization/scripts/collaboration_metrics_correlations.ipynb`=> documented jupyter notebook for generating the correlations of the metrics
 
   - Scripts used to generate the intermediate files:
-   - `comment_per_user.ipynb` => jupyter notebook that creates `comment_author_groupby_bug.csv`. It creates a file with comment counts by contributor by Bug Report Key.
-   - `create_duckdb_database.ipynb` => jupyter notebook that creates the duckdb database.
-   - `create_summary_dataset.ipynb` => jupyter notebook that creates `contributors_summary_dataset_full.csv`.
-   - `process_csv_collab.ipynb` => jupyter notebook that creates the main file `bug_report_collab_dataset.csv`.
+   - `generate_analysis_and_visualization/scripts/comment_per_user.ipynb` => jupyter notebook that creates `comment_author_groupby_bug.csv`. It creates a file with comment counts by contributor by Bug Report Key.
+   - `generate_analysis_and_visualization/scripts/create_duckdb_database.ipynb` => jupyter notebook that creates the duckdb database.
+   - `generate_analysis_and_visualization/scripts/create_summary_dataset.ipynb` => jupyter notebook that creates `contributors_summary_dataset_full.csv`.
+   - `generate_analysis_and_visualization/scripts/process_csv_collab.ipynb` => jupyter notebook that creates the main file `bug_report_collab_dataset.csv`.
 
 #### Visualization
- - `Collab_RQ1_Analysis.twbx` => Tableau file that loads `bug_report_collab_dataset.csv` to generate visualizations to explore RQ1.
- - `Collab_RQ2_Analysis.twbx` => Tableau file that loads `bug_report_collab_dataset.csv` to generate visualizations to explore RQ2.
+ - `generate_analysis_and_visualization/visualizations/Collab_RQ1_Analysis.twbx` => Tableau file that loads `bug_report_collab_dataset.csv` to generate visualizations to explore RQ1.
+ - `generate_analysis_and_visualization/visualizations/Collab_RQ2_Analysis.twbx` => Tableau file that loads `bug_report_collab_dataset.csv` to generate visualizations to explore RQ2.
 
  ### Other files
- - `requirements.txt` => used to load the required Python packages.
+ - `../requirements.txt` => used to load the required Python packages.
